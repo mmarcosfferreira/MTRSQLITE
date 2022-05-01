@@ -1,0 +1,46 @@
+﻿Public Class _HttpStatusCode
+   Public Enum _HttpStatusCode
+	 Continuar = 100
+	 MudandoProtocolos = 101
+	 Processando = 102
+	 Ok = 200
+	 Criado = 201
+	 Aceito = 202
+	 Naoautorizado = 203
+	 NenhumConteúdo = 204
+	 ResetarConteúdo = 205
+	 ConteúdoParcial = 206
+	 MultiplaEscolha = 300
+	 MovidoPermanentemente = 301
+	 Encontrado = 302
+	 VejaOutro = 303
+	 NãoModificado = 304
+	 UseProxy = 305
+	 ProxyTrocado = 306
+	 SolicitaçaoInvalida = 400
+	 NãoAutorizado = 401
+	 PagamentoNecessario = 402
+	 Proibido = 403
+	 NãoEncontrado = 404
+	 MetodonaoPermitido = 405
+	 NaoAceito = 406
+	 AutenticaçãodeProxyNecessaria = 407
+	 TempodeSolicitaçãoEsgotado = 408
+	 Conflito = 409
+	 Perdido = 410
+	 DuraçãoNecessaria = 411
+	 FalhadePreCondição = 412
+	 SolicitaçãodaEntidadeMuitoExtensa = 413
+	 SolicitaçãodeURLMuitoLonga = 414
+	 TipodeMidiaNaoSuportado = 415
+	 SolicitaçãodefaixanaoSatisfatoria = 416
+	 FalhanaExpectativa = 417
+	 ErroDoServidorInterno = 500
+	 NaoImplementado = 501
+	 PortadeEntradaRuim = 502
+	 ServiçoIndisponivel = 503
+	 TempoLimitedaPortadeEntrada = 504
+	 VersaoHTTPNaoSuportada = 505
+   End Enum
+
+End Class

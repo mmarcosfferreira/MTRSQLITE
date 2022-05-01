@@ -1,0 +1,182 @@
+[
+    {
+        "tipoCodigo": 31,
+        "tipoDescricao": "Aterro Classe I",
+        "retornoCodigo": null,
+        "retorno": null
+    },
+    {
+        "tipoCodigo": 32,
+        "tipoDescricao": "Aterro Classe IIA e IIB",
+        "retornoCodigo": null,
+        "retorno": null
+    },
+    {
+        "tipoCodigo": 33,
+        "tipoDescricao": "Aterro de Reservação - RCC",
+        "retornoCodigo": null,
+        "retorno": null
+    },
+    {
+        "tipoCodigo": 13,
+        "tipoDescricao": "Autoclave",
+        "retornoCodigo": null,
+        "retorno": null
+    },
+    {
+        "tipoCodigo": 34,
+        "tipoDescricao": "Barragem de Rejeitos",
+        "retornoCodigo": null,
+        "retorno": null
+    },
+    {
+        "tipoCodigo": 35,
+        "tipoDescricao": "Biometanização",
+        "retornoCodigo": null,
+        "retorno": null
+    },
+    {
+        "tipoCodigo": 8,
+        "tipoDescricao": "Blendagem para Coprocessamento",
+        "retornoCodigo": null,
+        "retorno": null
+    },
+    {
+        "tipoCodigo": 10,
+        "tipoDescricao": "Compostagem",
+        "retornoCodigo": null,
+        "retorno": null
+    },
+    {
+        "tipoCodigo": 4,
+        "tipoDescricao": "Coprocessamento",
+        "retornoCodigo": null,
+        "retorno": null
+    },
+    {
+        "tipoCodigo": 17,
+        "tipoDescricao": "Descontaminação de Lâmpadas",
+        "retornoCodigo": null,
+        "retorno": null
+    },
+    {
+        "tipoCodigo": 36,
+        "tipoDescricao": "Desmontagem REE e Veículos",
+        "retornoCodigo": null,
+        "retorno": null
+    },
+    {
+        "tipoCodigo": 37,
+        "tipoDescricao": "Disposição em Cava de Mineração",
+        "retornoCodigo": null,
+        "retorno": null
+    },
+    {
+        "tipoCodigo": 14,
+        "tipoDescricao": "Gaseificação",
+        "retornoCodigo": null,
+        "retorno": null
+    },
+    {
+        "tipoCodigo": 6,
+        "tipoDescricao": "Incineração",
+        "retornoCodigo": null,
+        "retorno": null
+    },
+    {
+        "tipoCodigo": 15,
+        "tipoDescricao": "Microondas",
+        "retornoCodigo": null,
+        "retorno": null
+    },
+    {
+        "tipoCodigo": 38,
+        "tipoDescricao": "Pilha de Estéril",
+        "retornoCodigo": null,
+        "retorno": null
+    },
+    {
+        "tipoCodigo": 39,
+        "tipoDescricao": "Pirólise",
+        "retornoCodigo": null,
+        "retorno": null
+    },
+    {
+        "tipoCodigo": 1,
+        "tipoDescricao": "Reciclagem",
+        "retornoCodigo": null,
+        "retorno": null
+    },
+    {
+        "tipoCodigo": 3,
+        "tipoDescricao": "Recuperação energética",
+        "retornoCodigo": null,
+        "retorno": null
+    },
+    {
+        "tipoCodigo": 50,
+        "tipoDescricao": "Remediação ex situ",
+        "retornoCodigo": null,
+        "retorno": null
+    },
+    {
+        "tipoCodigo": 16,
+        "tipoDescricao": "Rerrefino",
+        "retornoCodigo": null,
+        "retorno": null
+    },
+    {
+        "tipoCodigo": 44,
+        "tipoDescricao": "Reutilização",
+        "retornoCodigo": null,
+        "retorno": null
+    },
+    {
+        "tipoCodigo": 42,
+        "tipoDescricao": "Sistema de logística reversa formalmente instituído",
+        "retornoCodigo": null,
+        "retorno": null
+    },
+    {
+        "tipoCodigo": 11,
+        "tipoDescricao": "Tratamento de Efluentes",
+        "retornoCodigo": null,
+        "retorno": null
+    },
+    {
+        "tipoCodigo": 9,
+        "tipoDescricao": "Tratamento Térmico",
+        "retornoCodigo": null,
+        "retorno": null
+    },
+    {
+        "tipoCodigo": 40,
+        "tipoDescricao": "Triagem e Transbordo",
+        "retornoCodigo": null,
+        "retorno": null
+    },
+    {
+        "tipoCodigo": 12,
+        "tipoDescricao": "Uso Agrícola",
+        "retornoCodigo": null,
+        "retorno": null
+    },
+    {
+        "tipoCodigo": 41,
+        "tipoDescricao": "Uso Alimentação Animal",
+        "retornoCodigo": null,
+        "retorno": null
+    },
+    {
+        "tipoCodigo": 51,
+        "tipoDescricao": "Uso em vias para pavimentação ou manutenção",
+        "retornoCodigo": null,
+        "retorno": null
+    },
+    {
+        "tipoCodigo": 43,
+        "tipoDescricao": "Utilização de biomassa em caldeira",
+        "retornoCodigo": null,
+        "retorno": null
+    }
+]

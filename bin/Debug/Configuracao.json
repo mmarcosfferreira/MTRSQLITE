@@ -1,0 +1,47 @@
+[
+  {
+    "Modalidade_": {
+      "RdbPessoaFisica": false,
+      "RdbPessoaJridica": false,
+      "RdbDesativado": true
+    },
+    "Pessoa_fisica": {
+      "CodigoUnidadePF": "96942",
+      "CPF": "07893348607",
+      "Id_CPF_Usuario": "08773819689",
+      "SenhaAcesso": "ferreira"
+    },
+    "Pessoa_Juridica": {
+      "CodigoUnidadePJ": "222",
+      "CNPJ": "1111122",
+      "IdCPFusuarioPJ": "111222",
+      "SenhaAcessoPJ": "1111222"
+    },
+    "LeitorCodigoBarras": {
+      "ReceberMtr34Dig": true,
+      "ReceberMtr10Dig": false
+    },
+    "Req": {
+      "Gettoken": "https://homologa.mtr.meioambiente.mg.gov.br/api/gettoken",
+      "RetornaListaClasse": "https://homologa.mtr.meioambiente.mg.gov.br/api/retornaListaClasse",
+      "RetornaListaUnidade": "https://homologa.mtr.meioambiente.mg.gov.br/api/retornaListaUnidade",
+      "RetornaListaTecnologia": "https://homologa.mtr.meioambiente.mg.gov.br/api/retornaListaTecnologia",
+      "RetornaListaEstadoFisico": "https://homologa.mtr.meioambiente.mg.gov.br/api/retornaListaEstadoFisico",
+      "RetornaListaResiduo": "https://homologa.mtr.meioambiente.mg.gov.br/api/retornaListaResiduo",
+      "RetornaListaAcondicionamento": "https://homologa.mtr.meioambiente.mg.gov.br/api/retornaListaAcondicionamento",
+      "SalvarManifestoLote": "https://homologa.mtr.meioambiente.mg.gov.br/api/salvarManifestoLote",
+      "Donwload_PDF_Manifesto": "https://homologa.mtr.meioambiente.mg.gov.br/api/buscaPdfManifestoPorCodigoBarras/{CODIGO_BARRA}",
+      "DonwloadCDF": "https://homologa.mtr.meioambiente.mg.gov.br/api/buscaPdfCdf/{NUMERO_CDF}",
+      "EmiteCDF": "https://homologa.mtr.meioambiente.mg.gov.br/api/emiteCDF/",
+      "ReceberManifestoLote": "https://homologa.mtr.meioambiente.mg.gov.br/api/receberManifestoLote/",
+      "AlteraçãoManifestoRecebido": "https://homologa.mtr.meioambiente.mg.gov.br/api/alteraRecebimento/",
+      "AceiteAlteracaoRecebimento": "https://homologa.mtr.meioambiente.mg.gov.br/api/aceiteAlteracaoRecebimento/",
+      "CancelarManifesto": "https://homologa.mtr.meioambiente.mg.gov.br/api/cancelarManifesto/",
+      "RetornaManifesto": "https://homologa.mtr.meioambiente.mg.gov.br/api/retornaManifesto/",
+      "RetornaListaCodigoBarasManifesto": "https://homologa.mtr.meioambiente.mg.gov.br/api/retornaListaCodigoBarasManifesto/{dataInicio}"
+    },
+    "Destinador_CodigoUnidade": {
+      "CodigoUnidade": "30686"
+    }
+  }
+]

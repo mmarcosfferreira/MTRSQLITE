@@ -1,0 +1,37 @@
+[
+		    {
+		        "tpuniCodigo": 1,
+		        "tpuniDescricao": "Metro Cúbico",
+		        "tpuniSigla": "m³",
+		        "retornoCodigo": null,
+		        "retorno": null
+		    },
+		    {
+		        "tpuniCodigo": 2,
+		        "tpuniDescricao": "Litro",
+		        "tpuniSigla": "L",
+		        "retornoCodigo": null,
+		        "retorno": null
+		    },
+		    {
+		        "tpuniCodigo": 3,
+		        "tpuniDescricao": "Quilograma",
+		        "tpuniSigla": "kg",
+		        "retornoCodigo": null,
+		        "retorno": null
+		    },
+		    {
+		        "tpuniCodigo": 4,
+		        "tpuniDescricao": "Tonelada",
+		        "tpuniSigla": "t",
+		        "retornoCodigo": null,
+		        "retorno": null
+		    },
+		    {
+		        "tpuniCodigo": 5,
+		        "tpuniDescricao": "Unidade",
+		        "tpuniSigla": "Un",
+		        "retornoCodigo": null,
+		        "retorno": null
+		    }
+		]

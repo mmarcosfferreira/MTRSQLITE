@@ -1,0 +1,487 @@
+C:\Users\marcosferreira\Desktop\documents\Nova pasta\MTR\Principal\bin\Debug\FrmPrincipal.resx
+C:\Users\marcosferreira\Desktop\documents\Nova pasta\MTR\Principal\bin\Debug\FRM\Banco de dados Confirmação.resx
+C:\Users\marcosferreira\Desktop\documents\Nova pasta\MTR\Principal\bin\Debug\FRM\FRMControle de Pesagem Manual.resx
+C:\Users\marcosferreira\Desktop\documents\Nova pasta\MTR\Principal\bin\Debug\FRM\EstimativaManual.resx
+C:\Users\marcosferreira\Desktop\documents\Nova pasta\MTR\Principal\bin\Debug\FRM\FrmAlterardataehora.resx
+C:\Users\marcosferreira\Desktop\documents\Nova pasta\MTR\Principal\bin\Debug\FRM\FrmInfratores.resx
+C:\Users\marcosferreira\Desktop\documents\Nova pasta\MTR\Principal\bin\Debug\FRM\FRMmemorando.resx
+C:\Users\marcosferreira\Desktop\documents\Nova pasta\MTR\Principal\bin\Debug\FRM\FrmMTR.resx
+C:\Users\marcosferreira\Desktop\documents\Nova pasta\MTR\Principal\bin\Debug\FRM\frmpesoliquido.resx
+C:\Users\marcosferreira\Desktop\documents\Nova pasta\MTR\Principal\bin\Debug\FRM\Somar.resx
+C:\Users\marcosferreira\Desktop\documents\Nova pasta\MTR\Principal\bin\Debug\FrmPrincipal.vb
+C:\Users\marcosferreira\Desktop\documents\Nova pasta\MTR\Principal\bin\Debug\FrmPrincipal.Designer.vb
+C:\Users\marcosferreira\Desktop\documents\Nova pasta\MTR\Principal\bin\Debug\FRM\Banco de dados Confirmação.Designer.vb
+C:\Users\marcosferreira\Desktop\documents\Nova pasta\MTR\Principal\bin\Debug\FRM\Banco de dados Confirmação.vb
+C:\Users\marcosferreira\Desktop\documents\Nova pasta\MTR\Principal\bin\Debug\FRM\ClasseCnpj.vb
+C:\Users\marcosferreira\Desktop\documents\Nova pasta\MTR\Principal\bin\Debug\FRM\ColocarFormularionoTopoChamarformulario.vb
+C:\Users\marcosferreira\Desktop\documents\Nova pasta\MTR\Principal\bin\Debug\FRM\FRMControle de Pesagem Manual.Designer.vb
+C:\Users\marcosferreira\Desktop\documents\Nova pasta\MTR\Principal\bin\Debug\FRM\FRMControle de Pesagem Manual.vb
+C:\Users\marcosferreira\Desktop\documents\Nova pasta\MTR\Principal\bin\Debug\FRM\EstimativaManual.Designer.vb
+C:\Users\marcosferreira\Desktop\documents\Nova pasta\MTR\Principal\bin\Debug\FRM\EstimativaManual.vb
+C:\Users\marcosferreira\Desktop\documents\Nova pasta\MTR\Principal\bin\Debug\FRM\FrmAlterardataehora.Designer.vb
+C:\Users\marcosferreira\Desktop\documents\Nova pasta\MTR\Principal\bin\Debug\FRM\FrmAlterardataehora.vb
+C:\Users\marcosferreira\Desktop\documents\Nova pasta\MTR\Principal\bin\Debug\FRM\FrmInfratores.Designer.vb
+C:\Users\marcosferreira\Desktop\documents\Nova pasta\MTR\Principal\bin\Debug\FRM\FrmInfratores.vb
+C:\Users\marcosferreira\Desktop\documents\Nova pasta\MTR\Principal\bin\Debug\FRM\FRMmemorando.Designer.vb
+C:\Users\marcosferreira\Desktop\documents\Nova pasta\MTR\Principal\bin\Debug\FRM\FRMmemorando.vb
+C:\Users\marcosferreira\Desktop\documents\Nova pasta\MTR\Principal\bin\Debug\FRM\FrmMTR.Designer.vb
+C:\Users\marcosferreira\Desktop\documents\Nova pasta\MTR\Principal\bin\Debug\FRM\FrmMTR.vb
+C:\Users\marcosferreira\Desktop\documents\Nova pasta\MTR\Principal\bin\Debug\FRM\frmpesoliquido.Designer.vb
+C:\Users\marcosferreira\Desktop\documents\Nova pasta\MTR\Principal\bin\Debug\FRM\frmpesoliquido.vb
+C:\Users\marcosferreira\Desktop\documents\Nova pasta\MTR\Principal\bin\Debug\FRM\FTP_Upload.vb
+C:\Users\marcosferreira\Desktop\documents\Nova pasta\MTR\Principal\bin\Debug\FRM\SalvarOnlineContPesagemManual.vb
+C:\Users\marcosferreira\Desktop\documents\Nova pasta\MTR\Principal\bin\Debug\FRM\Somar.Designer.vb
+C:\Users\marcosferreira\Desktop\documents\Nova pasta\MTR\Principal\bin\Debug\FRM\Somar.vb
+C:\Users\marcosferreira\Desktop\documents\Nova pasta\MTR\Principal\bin\Debug\FRM\TextboxMonetário.vb
+C:\Users\marcosferreira\Desktop\documents\Nova pasta\MTR\Principal\bin\Debug\FRM\UsuarioLogado.vb
+C:\Users\marcosferreira\Desktop\documents\Nova pasta\MTR\Principal\bin\Debug\Principal.exe.config
+C:\Users\marcosferreira\Desktop\documents\Nova pasta\MTR\Principal\bin\Debug\Principal.exe
+C:\Users\marcosferreira\Desktop\documents\Nova pasta\MTR\Principal\bin\Debug\Principal.pdb
+C:\Users\marcosferreira\Desktop\documents\Nova pasta\MTR\Principal\bin\Debug\Principal.xml
+C:\Users\marcosferreira\Desktop\documents\Nova pasta\MTR\Principal\bin\Debug\pt-BR\Principal.resources.dll
+C:\Users\marcosferreira\Desktop\documents\Nova pasta\MTR\Principal\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\marcosferreira\Desktop\documents\Nova pasta\MTR\Principal\bin\Debug\Guna.UI2.dll
+C:\Users\marcosferreira\Desktop\documents\Nova pasta\MTR\Principal\bin\Debug\Newtonsoft.Json.dll
+C:\Users\marcosferreira\Desktop\documents\Nova pasta\MTR\Principal\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\marcosferreira\Desktop\documents\Nova pasta\MTR\Principal\bin\Debug\Newtonsoft.Json.xml
+C:\Users\marcosferreira\Desktop\documents\Nova pasta\MTR\Principal\obj\Debug\Manifesto.vbproj.AssemblyReference.cache
+C:\Users\marcosferreira\Desktop\documents\Nova pasta\MTR\Principal\obj\Debug\Manifesto.vbproj.ResolveComReference.cache
+C:\Users\marcosferreira\Desktop\documents\Nova pasta\MTR\Principal\obj\Debug\Principal.FrmPrincipal.resources
+C:\Users\marcosferreira\Desktop\documents\Nova pasta\MTR\Principal\obj\Debug\Principal.FRMConfirmarBancodeDados.resources
+C:\Users\marcosferreira\Desktop\documents\Nova pasta\MTR\Principal\obj\Debug\Principal.FRMConfigurar_banco_de_Dados.resources
+C:\Users\marcosferreira\Desktop\documents\Nova pasta\MTR\Principal\obj\Debug\Principal.FRMConfiguracaoFeam.resources
+C:\Users\marcosferreira\Desktop\documents\Nova pasta\MTR\Principal\obj\Debug\Principal.FRMControlePesagemManual_.resources
+C:\Users\marcosferreira\Desktop\documents\Nova pasta\MTR\Principal\obj\Debug\Principal.FrmEstimativaManual.resources
+C:\Users\marcosferreira\Desktop\documents\Nova pasta\MTR\Principal\obj\Debug\Principal.FrmAlterardataehora.resources
+C:\Users\marcosferreira\Desktop\documents\Nova pasta\MTR\Principal\obj\Debug\Principal.FrmInfratores.resources
+C:\Users\marcosferreira\Desktop\documents\Nova pasta\MTR\Principal\obj\Debug\Principal.FRMmemorando.resources
+C:\Users\marcosferreira\Desktop\documents\Nova pasta\MTR\Principal\obj\Debug\Principal.FrmMTR.resources
+C:\Users\marcosferreira\Desktop\documents\Nova pasta\MTR\Principal\obj\Debug\Principal.FRMopcoes.resources
+C:\Users\marcosferreira\Desktop\documents\Nova pasta\MTR\Principal\obj\Debug\Principal.Frmpesoliquido.resources
+C:\Users\marcosferreira\Desktop\documents\Nova pasta\MTR\Principal\obj\Debug\Principal.FrmVolumeWindows.resources
+C:\Users\marcosferreira\Desktop\documents\Nova pasta\MTR\Principal\obj\Debug\Principal.InputBox_Personalizado.resources
+C:\Users\marcosferreira\Desktop\documents\Nova pasta\MTR\Principal\obj\Debug\Principal.FrmSomarHoras.resources
+C:\Users\marcosferreira\Desktop\documents\Nova pasta\MTR\Principal\obj\Debug\Principal.TextboxMonetário.resources
+C:\Users\marcosferreira\Desktop\documents\Nova pasta\MTR\Principal\obj\Debug\Principal.Resources.resources
+C:\Users\marcosferreira\Desktop\documents\Nova pasta\MTR\Principal\obj\Debug\Principal.FrmAlterardataehora.pt-BR.resources
+C:\Users\marcosferreira\Desktop\documents\Nova pasta\MTR\Principal\obj\Debug\Principal.FrmSomarHoras.pt-BR.resources
+C:\Users\marcosferreira\Desktop\documents\Nova pasta\MTR\Principal\obj\Debug\Manifesto.vbproj.GenerateResource.cache
+C:\Users\marcosferreira\Desktop\documents\Nova pasta\MTR\Principal\obj\Debug\Manifesto.vbproj.CoreCompileInputs.cache
+C:\Users\marcosferreira\Desktop\documents\Nova pasta\MTR\Principal\obj\Debug\pt-BR\Principal.resources.dll
+C:\Users\marcosferreira\Desktop\documents\Nova pasta\MTR\Principal\obj\Debug\Manifesto.vbproj.CopyComplete
+C:\Users\marcosferreira\Desktop\documents\Nova pasta\MTR\Principal\obj\Debug\Principal.exe
+C:\Users\marcosferreira\Desktop\documents\Nova pasta\MTR\Principal\obj\Debug\Principal.xml
+C:\Users\marcosferreira\Desktop\documents\Nova pasta\MTR\Principal\obj\Debug\Principal.pdb
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\FrmPrincipal.resx
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\FRM\Banco de dados Confirmação.resx
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\FRM\FRMControle de Pesagem Manual.resx
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\FRM\EstimativaManual.resx
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\FRM\FrmAlterardataehora.resx
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\FRM\FrmInfratores.resx
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\FRM\FRMmemorando.resx
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\FRM\FrmMTR.resx
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\FRM\frmpesoliquido.resx
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\FRM\Somar.resx
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\FrmPrincipal.vb
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\FrmPrincipal.Designer.vb
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\FRM\Banco de dados Confirmação.Designer.vb
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\FRM\Banco de dados Confirmação.vb
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\FRM\ClasseCnpj.vb
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\FRM\ColocarFormularionoTopoChamarformulario.vb
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\FRM\FRMControle de Pesagem Manual.Designer.vb
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\FRM\FRMControle de Pesagem Manual.vb
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\FRM\EstimativaManual.Designer.vb
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\FRM\EstimativaManual.vb
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\FRM\FrmAlterardataehora.Designer.vb
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\FRM\FrmAlterardataehora.vb
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\FRM\FrmInfratores.Designer.vb
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\FRM\FrmInfratores.vb
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\FRM\FRMmemorando.Designer.vb
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\FRM\FRMmemorando.vb
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\FRM\FrmMTR.Designer.vb
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\FRM\FrmMTR.vb
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\FRM\frmpesoliquido.Designer.vb
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\FRM\frmpesoliquido.vb
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\FRM\FTP_Upload.vb
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\FRM\SalvarOnlineContPesagemManual.vb
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\FRM\Somar.Designer.vb
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\FRM\Somar.vb
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\FRM\TextboxMonetário.vb
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\FRM\UsuarioLogado.vb
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\Principal.exe.config
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\Principal.exe
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\Principal.pdb
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\Principal.xml
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\pt-BR\Principal.resources.dll
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\Guna.UI2.dll
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\JetBrains.Annotations.dll
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\Json.More.dll
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\JsonPointer.Net.dll
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\Newtonsoft.Json.dll
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\Newtonsoft.Json.Schema.dll
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\System.Buffers.dll
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\System.Memory.dll
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\System.Text.Json.dll
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\System.ValueTuple.dll
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\JetBrains.Annotations.xml
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\Json.More.xml
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\JsonPointer.Net.xml
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\Newtonsoft.Json.xml
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\Newtonsoft.Json.Schema.xml
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\System.Buffers.xml
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\System.Memory.xml
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\System.Text.Json.xml
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\System.ValueTuple.xml
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\obj\Debug\Manifesto.vbproj.ResolveComReference.cache
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\obj\Debug\Principal.FrmPrincipal.resources
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\obj\Debug\Principal.FRMConfirmarBancodeDados.resources
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\obj\Debug\Principal.FRMConfigurar_banco_de_Dados.resources
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\obj\Debug\Principal.FRMConfiguracaoFeam.resources
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\obj\Debug\Principal.FRMControlePesagemManual_.resources
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\obj\Debug\Principal.FrmEstimativaManual.resources
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\obj\Debug\Principal.FrmAlterardataehora.resources
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\obj\Debug\Principal.FrmInfratores.resources
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\obj\Debug\Principal.FRMmemorando.resources
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\obj\Debug\Principal.FrmMTR.resources
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\obj\Debug\Principal.FRMopcoes.resources
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\obj\Debug\Principal.Frmpesoliquido.resources
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\obj\Debug\Principal.FrmVolumeWindows.resources
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\obj\Debug\Principal.InputBox_Personalizado.resources
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\obj\Debug\Principal.FrmSomarHoras.resources
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\obj\Debug\Principal.TextboxMonetário.resources
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\obj\Debug\Principal.Resources.resources
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\obj\Debug\Principal.FrmAlterardataehora.pt-BR.resources
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\obj\Debug\Principal.FrmSomarHoras.pt-BR.resources
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\obj\Debug\Manifesto.vbproj.GenerateResource.cache
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\obj\Debug\Manifesto.vbproj.CoreCompileInputs.cache
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\obj\Debug\pt-BR\Principal.resources.dll
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\obj\Debug\Manifesto.vbproj.CopyComplete
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\obj\Debug\Principal.exe
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\obj\Debug\Principal.xml
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\obj\Debug\Principal.pdb
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\obj\Debug\Manifesto.vbproj.AssemblyReference.cache
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\bin\Debug\FrmPrincipal.resx
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\bin\Debug\FRM\Banco de dados Confirmação.resx
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\bin\Debug\FRM\FRMControle de Pesagem Manual.resx
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\bin\Debug\FRM\EstimativaManual.resx
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\bin\Debug\FRM\FrmAlterardataehora.resx
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\bin\Debug\FRM\FrmInfratores.resx
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\bin\Debug\FRM\FRMmemorando.resx
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\bin\Debug\FRM\FrmMTR.resx
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\bin\Debug\FRM\frmpesoliquido.resx
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\bin\Debug\FRM\Somar.resx
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\bin\Debug\FrmPrincipal.vb
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\bin\Debug\FrmPrincipal.Designer.vb
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\bin\Debug\FRM\Banco de dados Confirmação.Designer.vb
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\bin\Debug\FRM\Banco de dados Confirmação.vb
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\bin\Debug\FRM\ClasseCnpj.vb
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\bin\Debug\FRM\ColocarFormularionoTopoChamarformulario.vb
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\bin\Debug\FRM\FRMControle de Pesagem Manual.Designer.vb
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\bin\Debug\FRM\FRMControle de Pesagem Manual.vb
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\bin\Debug\FRM\EstimativaManual.Designer.vb
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\bin\Debug\FRM\EstimativaManual.vb
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\bin\Debug\FRM\FrmAlterardataehora.Designer.vb
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\bin\Debug\FRM\FrmAlterardataehora.vb
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\bin\Debug\FRM\FrmInfratores.Designer.vb
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\bin\Debug\FRM\FrmInfratores.vb
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\bin\Debug\FRM\FRMmemorando.Designer.vb
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\bin\Debug\FRM\FRMmemorando.vb
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\bin\Debug\FRM\FrmMTR.Designer.vb
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\bin\Debug\FRM\FrmMTR.vb
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\bin\Debug\FRM\frmpesoliquido.Designer.vb
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\bin\Debug\FRM\frmpesoliquido.vb
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\bin\Debug\FRM\FTP_Upload.vb
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\bin\Debug\FRM\SalvarOnlineContPesagemManual.vb
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\bin\Debug\FRM\Somar.Designer.vb
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\bin\Debug\FRM\Somar.vb
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\bin\Debug\FRM\TextboxMonetário.vb
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\bin\Debug\FRM\UsuarioLogado.vb
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\bin\Debug\Principal.exe.config
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\bin\Debug\Principal.exe
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\bin\Debug\Principal.pdb
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\bin\Debug\Principal.xml
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\bin\Debug\pt-BR\Principal.resources.dll
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\bin\Debug\Guna.UI2.dll
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\bin\Debug\JetBrains.Annotations.dll
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\bin\Debug\Json.More.dll
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\bin\Debug\JsonPointer.Net.dll
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\bin\Debug\MetroFramework.Design.dll
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\bin\Debug\MetroFramework.dll
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\bin\Debug\Newtonsoft.Json.dll
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\bin\Debug\Newtonsoft.Json.Schema.dll
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\bin\Debug\System.Buffers.dll
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\bin\Debug\System.Data.SQLite.dll
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\bin\Debug\System.Memory.dll
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\bin\Debug\System.Text.Json.dll
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\bin\Debug\System.ValueTuple.dll
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\bin\Debug\JetBrains.Annotations.xml
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\bin\Debug\Json.More.xml
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\bin\Debug\JsonPointer.Net.xml
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\bin\Debug\Newtonsoft.Json.xml
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\bin\Debug\Newtonsoft.Json.Schema.xml
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\bin\Debug\System.Buffers.xml
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\bin\Debug\System.Data.SQLite.xml
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\bin\Debug\System.Memory.xml
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\bin\Debug\System.Text.Json.xml
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\bin\Debug\System.ValueTuple.xml
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\obj\Debug\Manifesto.vbproj.SuggestedBindingRedirects.cache
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\obj\Debug\Manifesto.vbproj.ResolveComReference.cache
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\obj\Debug\Principal.FrmPrincipal.resources
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\obj\Debug\Principal.FRMConfirmarBancodeDados.resources
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\obj\Debug\Principal.FRMConfigurar_banco_de_Dados.resources
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\obj\Debug\Principal.FRMConfiguracaoFeam.resources
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\obj\Debug\Principal.FRMControlePesagemManual_.resources
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\obj\Debug\Principal.FrmEstimativaManual.resources
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\obj\Debug\Principal.FrmAlterardataehora.resources
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\obj\Debug\Principal.FrmInfratores.resources
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\obj\Debug\Principal.FRMmemorando.resources
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\obj\Debug\Principal.FrmMTR.resources
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\obj\Debug\Principal.FRMopcoes.resources
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\obj\Debug\Principal.Frmpesoliquido.resources
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\obj\Debug\Principal.FrmVolumeWindows.resources
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\obj\Debug\Principal.InputBox_Personalizado.resources
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\obj\Debug\Principal.FrmSomarHoras.resources
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\obj\Debug\Principal.TextboxMonetário.resources
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\obj\Debug\Principal.Resources.resources
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\obj\Debug\Principal.FrmAlterardataehora.pt-BR.resources
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\obj\Debug\Principal.FrmSomarHoras.pt-BR.resources
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\obj\Debug\Manifesto.vbproj.GenerateResource.cache
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\obj\Debug\Manifesto.vbproj.CoreCompileInputs.cache
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\obj\Debug\pt-BR\Principal.resources.dll
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\obj\Debug\Manifesto.vbproj.CopyComplete
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\obj\Debug\Principal.exe
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\obj\Debug\Principal.xml
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\obj\Debug\Principal.pdb
+C:\Users\marcosferreira\AppData\Roaming\MTR_Nov\Principal\obj\Debug\Manifesto.vbproj.AssemblyReference.cache
+C:\MTR\Principal\bin\Debug\FrmPrincipal.resx
+C:\MTR\Principal\bin\Debug\FRM\Banco de dados Confirmação.resx
+C:\MTR\Principal\bin\Debug\FRM\FRMControle de Pesagem Manual.resx
+C:\MTR\Principal\bin\Debug\FRM\EstimativaManual.resx
+C:\MTR\Principal\bin\Debug\FRM\FrmAlterardataehora.resx
+C:\MTR\Principal\bin\Debug\FRM\FrmInfratores.resx
+C:\MTR\Principal\bin\Debug\FRM\FRMmemorando.resx
+C:\MTR\Principal\bin\Debug\FRM\FrmMTR.resx
+C:\MTR\Principal\bin\Debug\FRM\frmpesoliquido.resx
+C:\MTR\Principal\bin\Debug\FRM\Somar.resx
+C:\MTR\Principal\bin\Debug\FrmPrincipal.vb
+C:\MTR\Principal\bin\Debug\FrmPrincipal.Designer.vb
+C:\MTR\Principal\bin\Debug\FRM\Banco de dados Confirmação.Designer.vb
+C:\MTR\Principal\bin\Debug\FRM\Banco de dados Confirmação.vb
+C:\MTR\Principal\bin\Debug\FRM\ClasseCnpj.vb
+C:\MTR\Principal\bin\Debug\FRM\ColocarFormularionoTopoChamarformulario.vb
+C:\MTR\Principal\bin\Debug\FRM\FRMControle de Pesagem Manual.Designer.vb
+C:\MTR\Principal\bin\Debug\FRM\FRMControle de Pesagem Manual.vb
+C:\MTR\Principal\bin\Debug\FRM\EstimativaManual.Designer.vb
+C:\MTR\Principal\bin\Debug\FRM\EstimativaManual.vb
+C:\MTR\Principal\bin\Debug\FRM\FrmAlterardataehora.Designer.vb
+C:\MTR\Principal\bin\Debug\FRM\FrmAlterardataehora.vb
+C:\MTR\Principal\bin\Debug\FRM\FrmInfratores.Designer.vb
+C:\MTR\Principal\bin\Debug\FRM\FrmInfratores.vb
+C:\MTR\Principal\bin\Debug\FRM\FRMmemorando.Designer.vb
+C:\MTR\Principal\bin\Debug\FRM\FRMmemorando.vb
+C:\MTR\Principal\bin\Debug\FRM\FrmMTR.Designer.vb
+C:\MTR\Principal\bin\Debug\FRM\FrmMTR.vb
+C:\MTR\Principal\bin\Debug\FRM\frmpesoliquido.Designer.vb
+C:\MTR\Principal\bin\Debug\FRM\frmpesoliquido.vb
+C:\MTR\Principal\bin\Debug\FRM\FTP_Upload.vb
+C:\MTR\Principal\bin\Debug\FRM\SalvarOnlineContPesagemManual.vb
+C:\MTR\Principal\bin\Debug\FRM\Somar.Designer.vb
+C:\MTR\Principal\bin\Debug\FRM\Somar.vb
+C:\MTR\Principal\bin\Debug\FRM\TextboxMonetário.vb
+C:\MTR\Principal\bin\Debug\FRM\UsuarioLogado.vb
+C:\MTR\Principal\bin\Debug\Principal.exe.config
+C:\MTR\Principal\bin\Debug\Principal.exe
+C:\MTR\Principal\bin\Debug\Principal.pdb
+C:\MTR\Principal\bin\Debug\Principal.xml
+C:\MTR\Principal\bin\Debug\pt-BR\Principal.resources.dll
+C:\MTR\Principal\bin\Debug\Guna.UI2.dll
+C:\MTR\Principal\bin\Debug\JetBrains.Annotations.dll
+C:\MTR\Principal\bin\Debug\Json.More.dll
+C:\MTR\Principal\bin\Debug\JsonPointer.Net.dll
+C:\MTR\Principal\bin\Debug\MetroFramework.Design.dll
+C:\MTR\Principal\bin\Debug\MetroFramework.dll
+C:\MTR\Principal\bin\Debug\MetroFramework.Fonts.dll
+C:\MTR\Principal\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\MTR\Principal\bin\Debug\Newtonsoft.Json.dll
+C:\MTR\Principal\bin\Debug\Newtonsoft.Json.Schema.dll
+C:\MTR\Principal\bin\Debug\SQLitePCLRaw.core.dll
+C:\MTR\Principal\bin\Debug\System.Buffers.dll
+C:\MTR\Principal\bin\Debug\System.Data.SQLite.dll
+C:\MTR\Principal\bin\Debug\System.Memory.dll
+C:\MTR\Principal\bin\Debug\System.Numerics.Vectors.dll
+C:\MTR\Principal\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\MTR\Principal\bin\Debug\System.Text.Encodings.Web.dll
+C:\MTR\Principal\bin\Debug\System.Text.Json.dll
+C:\MTR\Principal\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\MTR\Principal\bin\Debug\System.ValueTuple.dll
+C:\MTR\Principal\bin\Debug\JetBrains.Annotations.xml
+C:\MTR\Principal\bin\Debug\Json.More.xml
+C:\MTR\Principal\bin\Debug\JsonPointer.Net.xml
+C:\MTR\Principal\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\MTR\Principal\bin\Debug\Newtonsoft.Json.xml
+C:\MTR\Principal\bin\Debug\Newtonsoft.Json.Schema.xml
+C:\MTR\Principal\bin\Debug\System.Buffers.xml
+C:\MTR\Principal\bin\Debug\System.Data.SQLite.xml
+C:\MTR\Principal\bin\Debug\System.Memory.xml
+C:\MTR\Principal\bin\Debug\System.Numerics.Vectors.xml
+C:\MTR\Principal\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\MTR\Principal\bin\Debug\System.Text.Encodings.Web.xml
+C:\MTR\Principal\bin\Debug\System.Text.Json.xml
+C:\MTR\Principal\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\MTR\Principal\bin\Debug\System.ValueTuple.xml
+C:\MTR\Principal\obj\Debug\Manifesto.vbproj.AssemblyReference.cache
+C:\MTR\Principal\obj\Debug\Manifesto.vbproj.SuggestedBindingRedirects.cache
+C:\MTR\Principal\obj\Debug\Manifesto.vbproj.ResolveComReference.cache
+C:\MTR\Principal\obj\Debug\Principal.FrmPrincipal.resources
+C:\MTR\Principal\obj\Debug\Principal.FRMConfirmarBancodeDados.resources
+C:\MTR\Principal\obj\Debug\Principal.FRMConfigurar_banco_de_Dados.resources
+C:\MTR\Principal\obj\Debug\Principal.FRMConfiguracaoFeam.resources
+C:\MTR\Principal\obj\Debug\Principal.FRMControlePesagemManual_.resources
+C:\MTR\Principal\obj\Debug\Principal.FrmEstimativaManual.resources
+C:\MTR\Principal\obj\Debug\Principal.FrmAlterardataehora.resources
+C:\MTR\Principal\obj\Debug\Principal.FrmInfratores.resources
+C:\MTR\Principal\obj\Debug\Principal.FRMmemorando.resources
+C:\MTR\Principal\obj\Debug\Principal.FrmMTR.resources
+C:\MTR\Principal\obj\Debug\Principal.FRMopcoes.resources
+C:\MTR\Principal\obj\Debug\Principal.Frmpesoliquido.resources
+C:\MTR\Principal\obj\Debug\Principal.FrmVolumeWindows.resources
+C:\MTR\Principal\obj\Debug\Principal.InputBox_Personalizado.resources
+C:\MTR\Principal\obj\Debug\Principal.FrmSomarHoras.resources
+C:\MTR\Principal\obj\Debug\Principal.TextboxMonetário.resources
+C:\MTR\Principal\obj\Debug\Principal.Resources.resources
+C:\MTR\Principal\obj\Debug\Principal.FrmAlterardataehora.pt-BR.resources
+C:\MTR\Principal\obj\Debug\Principal.FrmSomarHoras.pt-BR.resources
+C:\MTR\Principal\obj\Debug\Manifesto.vbproj.GenerateResource.cache
+C:\MTR\Principal\obj\Debug\Manifesto.vbproj.CoreCompileInputs.cache
+C:\MTR\Principal\obj\Debug\pt-BR\Principal.resources.dll
+C:\MTR\Principal\obj\Debug\Manifesto.vbproj.CopyComplete
+C:\MTR\Principal\obj\Debug\Principal.exe
+C:\MTR\Principal\obj\Debug\Principal.xml
+C:\MTR\Principal\obj\Debug\Principal.pdb
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\obj\Debug\Manifesto.vbproj.AssemblyReference.cache
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\obj\Debug\Manifesto.vbproj.SuggestedBindingRedirects.cache
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\obj\Debug\Manifesto.vbproj.ResolveComReference.cache
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\obj\Debug\Principal.exe
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\obj\Debug\Principal.xml
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\obj\Debug\Principal.pdb
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\bin\Debug\FrmPrincipal.resx
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\bin\Debug\FRM\Banco de dados Confirmação.resx
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\bin\Debug\FRM\FRMControle de Pesagem Manual.resx
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\bin\Debug\FRM\EstimativaManual.resx
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\bin\Debug\FRM\FrmAlterardataehora.resx
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\bin\Debug\FRM\FrmInfratores.resx
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\bin\Debug\FRM\FRMmemorando.resx
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\bin\Debug\FRM\FrmMTR.resx
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\bin\Debug\FRM\frmpesoliquido.resx
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\bin\Debug\FRM\Somar.resx
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\bin\Debug\FrmPrincipal.vb
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\bin\Debug\FrmPrincipal.Designer.vb
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\bin\Debug\FRM\Banco de dados Confirmação.Designer.vb
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\bin\Debug\FRM\Banco de dados Confirmação.vb
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\bin\Debug\FRM\ClasseCnpj.vb
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\bin\Debug\FRM\ColocarFormularionoTopoChamarformulario.vb
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\bin\Debug\FRM\FRMControle de Pesagem Manual.Designer.vb
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\bin\Debug\FRM\FRMControle de Pesagem Manual.vb
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\bin\Debug\FRM\EstimativaManual.Designer.vb
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\bin\Debug\FRM\EstimativaManual.vb
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\bin\Debug\FRM\FrmAlterardataehora.Designer.vb
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\bin\Debug\FRM\FrmAlterardataehora.vb
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\bin\Debug\FRM\FrmInfratores.Designer.vb
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\bin\Debug\FRM\FrmInfratores.vb
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\bin\Debug\FRM\FRMmemorando.Designer.vb
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\bin\Debug\FRM\FRMmemorando.vb
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\bin\Debug\FRM\FrmMTR.Designer.vb
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\bin\Debug\FRM\FrmMTR.vb
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\bin\Debug\FRM\frmpesoliquido.Designer.vb
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\bin\Debug\FRM\frmpesoliquido.vb
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\bin\Debug\FRM\FTP_Upload.vb
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\bin\Debug\FRM\SalvarOnlineContPesagemManual.vb
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\bin\Debug\FRM\Somar.Designer.vb
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\bin\Debug\FRM\Somar.vb
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\bin\Debug\FRM\TextboxMonetário.vb
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\bin\Debug\FRM\UsuarioLogado.vb
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\bin\Debug\Principal.exe.config
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\bin\Debug\Principal.exe
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\bin\Debug\Principal.pdb
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\bin\Debug\Principal.xml
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\bin\Debug\pt-BR\Principal.resources.dll
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\bin\Debug\Guna.UI2.dll
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\bin\Debug\JetBrains.Annotations.dll
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\bin\Debug\Json.More.dll
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\bin\Debug\JsonPointer.Net.dll
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\bin\Debug\MetroFramework.Design.dll
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\bin\Debug\MetroFramework.dll
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\bin\Debug\MetroFramework.Fonts.dll
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\bin\Debug\Newtonsoft.Json.dll
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\bin\Debug\Newtonsoft.Json.Schema.dll
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\bin\Debug\SQLitePCLRaw.core.dll
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\bin\Debug\System.Buffers.dll
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\bin\Debug\System.Data.SQLite.dll
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\bin\Debug\System.Memory.dll
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\bin\Debug\System.Numerics.Vectors.dll
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\bin\Debug\System.Text.Encodings.Web.dll
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\bin\Debug\System.Text.Json.dll
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\bin\Debug\System.ValueTuple.dll
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\bin\Debug\JetBrains.Annotations.xml
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\bin\Debug\Json.More.xml
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\bin\Debug\JsonPointer.Net.xml
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\bin\Debug\Newtonsoft.Json.xml
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\bin\Debug\Newtonsoft.Json.Schema.xml
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\bin\Debug\System.Buffers.xml
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\bin\Debug\System.Data.SQLite.xml
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\bin\Debug\System.Memory.xml
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\bin\Debug\System.Numerics.Vectors.xml
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\bin\Debug\System.Text.Encodings.Web.xml
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\bin\Debug\System.Text.Json.xml
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\bin\Debug\System.ValueTuple.xml
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\obj\Debug\Principal.FrmPrincipal.resources
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\obj\Debug\Principal.FRMConfirmarBancodeDados.resources
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\obj\Debug\Principal.FRMConfigurar_banco_de_Dados.resources
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\obj\Debug\Principal.FRMConfiguracaoFeam.resources
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\obj\Debug\Principal.FRMControlePesagemManual_.resources
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\obj\Debug\Principal.FrmEstimativaManual.resources
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\obj\Debug\Principal.FrmAlterardataehora.resources
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\obj\Debug\Principal.FrmInfratores.resources
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\obj\Debug\Principal.FRMmemorando.resources
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\obj\Debug\Principal.FrmMTR.resources
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\obj\Debug\Principal.FRMopcoes.resources
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\obj\Debug\Principal.Frmpesoliquido.resources
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\obj\Debug\Principal.FrmVolumeWindows.resources
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\obj\Debug\Principal.InputBox_Personalizado.resources
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\obj\Debug\Principal.FrmSomarHoras.resources
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\obj\Debug\Principal.TextboxMonetário.resources
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\obj\Debug\Principal.Resources.resources
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\obj\Debug\Principal.FrmAlterardataehora.pt-BR.resources
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\obj\Debug\Principal.FrmSomarHoras.pt-BR.resources
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\obj\Debug\Manifesto.vbproj.GenerateResource.cache
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\obj\Debug\Manifesto.vbproj.CoreCompileInputs.cache
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\obj\Debug\pt-BR\Principal.resources.dll
+D:\Desenvolvimento\VB\Desktop\MTR SQLITE\obj\Debug\Manifesto.vbproj.CopyComplete

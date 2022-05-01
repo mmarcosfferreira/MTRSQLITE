@@ -1,0 +1,2 @@
+org.codehaus.jackson.map.exc.UnrecognizedPropertyException: Unrecognized field "Authorization" (Class br.com.brdti.mtr.services.model.ReceberManifestoJSON), not marked as ignorable
+ at [Source: org.apache.catalina.connector.CoyoteInputStream@7bca9c95; line: 2, column: 21] (through reference chain: br.com.brdti.mtr.services.model.ReceberManifestoJSON["Authorization"])

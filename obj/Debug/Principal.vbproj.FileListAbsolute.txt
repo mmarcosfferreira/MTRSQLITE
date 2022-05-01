@@ -1,0 +1,571 @@
+C:\MTR\Principal\bin\Debug\FrmPrincipal.resx
+C:\MTR\Principal\bin\Debug\FRM\Banco de dados Confirmação.resx
+C:\MTR\Principal\bin\Debug\FRM\FRMControle de Pesagem Manual.resx
+C:\MTR\Principal\bin\Debug\FRM\EstimativaManual.resx
+C:\MTR\Principal\bin\Debug\FRM\FrmAlterardataehora.resx
+C:\MTR\Principal\bin\Debug\FRM\FRMmemorando.resx
+C:\MTR\Principal\bin\Debug\FRM\FrmMTR.resx
+C:\MTR\Principal\bin\Debug\FRM\frmpesoliquido.resx
+C:\MTR\Principal\bin\Debug\FRM\Somar.resx
+C:\MTR\Principal\bin\Debug\FrmPrincipal.vb
+C:\MTR\Principal\bin\Debug\FrmPrincipal.Designer.vb
+C:\MTR\Principal\bin\Debug\FRM\Banco de dados Confirmação.Designer.vb
+C:\MTR\Principal\bin\Debug\FRM\Banco de dados Confirmação.vb
+C:\MTR\Principal\bin\Debug\FRM\ColocarFormularionoTopoChamarformulario.vb
+C:\MTR\Principal\bin\Debug\FRM\FRMControle de Pesagem Manual.Designer.vb
+C:\MTR\Principal\bin\Debug\FRM\FRMControle de Pesagem Manual.vb
+C:\MTR\Principal\bin\Debug\FRM\EstimativaManual.Designer.vb
+C:\MTR\Principal\bin\Debug\FRM\EstimativaManual.vb
+C:\MTR\Principal\bin\Debug\FRM\FrmAlterardataehora.Designer.vb
+C:\MTR\Principal\bin\Debug\FRM\FrmAlterardataehora.vb
+C:\MTR\Principal\bin\Debug\FRM\FRMmemorando.Designer.vb
+C:\MTR\Principal\bin\Debug\FRM\FRMmemorando.vb
+C:\MTR\Principal\bin\Debug\FRM\FrmMTR.Designer.vb
+C:\MTR\Principal\bin\Debug\FRM\FrmMTR.vb
+C:\MTR\Principal\bin\Debug\FRM\frmpesoliquido.Designer.vb
+C:\MTR\Principal\bin\Debug\FRM\frmpesoliquido.vb
+C:\MTR\Principal\bin\Debug\FRM\SalvarOnlineContPesagemManual.vb
+C:\MTR\Principal\bin\Debug\FRM\Somar.Designer.vb
+C:\MTR\Principal\bin\Debug\FRM\Somar.vb
+C:\MTR\Principal\bin\Debug\FRM\UsuarioLogado.vb
+C:\MTR\Principal\bin\Debug\Principal.exe.config
+C:\MTR\Principal\bin\Debug\Principal.exe
+C:\MTR\Principal\bin\Debug\Principal.pdb
+C:\MTR\Principal\bin\Debug\Principal.xml
+C:\MTR\Principal\bin\Debug\pt-BR\Principal.resources.dll
+C:\MTR\Principal\bin\Debug\Bunifu_UI_v1.52.dll
+C:\MTR\Principal\bin\Debug\Guna.UI2.dll
+C:\MTR\Principal\bin\Debug\Tulpep.NotificationWindow.dll
+C:\MTR\Principal\obj\Debug\Principal.vbproj.ResolveComReference.cache
+C:\MTR\Principal\obj\Debug\Principal.FrmPrincipal.resources
+C:\MTR\Principal\obj\Debug\Principal.FRMConfirmarBancodeDados.resources
+C:\MTR\Principal\obj\Debug\Principal.FRMConfigurar_banco_de_Dados.resources
+C:\MTR\Principal\obj\Debug\Principal.FRMControlePesagemManual_.resources
+C:\MTR\Principal\obj\Debug\Principal.FrmEstimativaManual.resources
+C:\MTR\Principal\obj\Debug\Principal.FrmAlterardataehora.resources
+C:\MTR\Principal\obj\Debug\Principal.FRMmemorando.resources
+C:\MTR\Principal\obj\Debug\Principal.FrmMTR.resources
+C:\MTR\Principal\obj\Debug\Principal.Frmpesoliquido.resources
+C:\MTR\Principal\obj\Debug\Principal.FrmVolumeWindows.resources
+C:\MTR\Principal\obj\Debug\Principal.FrmOpacity.resources
+C:\MTR\Principal\obj\Debug\Principal.FrmSomarHoras.resources
+C:\MTR\Principal\obj\Debug\Principal.Resources.resources
+C:\MTR\Principal\obj\Debug\Principal.FrmAlterardataehora.pt-BR.resources
+C:\MTR\Principal\obj\Debug\Principal.FrmSomarHoras.pt-BR.resources
+C:\MTR\Principal\obj\Debug\Principal.vbproj.GenerateResource.cache
+C:\MTR\Principal\obj\Debug\Principal.vbproj.CoreCompileInputs.cache
+C:\MTR\Principal\obj\Debug\pt-BR\Principal.resources.dll
+C:\MTR\Principal\obj\Debug\Principal.vbproj.CopyComplete
+C:\MTR\Principal\obj\Debug\Principal.exe
+C:\MTR\Principal\obj\Debug\Principal.xml
+C:\MTR\Principal\obj\Debug\Principal.pdb
+C:\Users\marcosferreira\Desktop\MTR\Principal\bin\Debug\FrmPrincipal.resx
+C:\Users\marcosferreira\Desktop\MTR\Principal\bin\Debug\FRM\Banco de dados Confirmação.resx
+C:\Users\marcosferreira\Desktop\MTR\Principal\bin\Debug\FRM\FRMControle de Pesagem Manual.resx
+C:\Users\marcosferreira\Desktop\MTR\Principal\bin\Debug\FRM\EstimativaManual.resx
+C:\Users\marcosferreira\Desktop\MTR\Principal\bin\Debug\FRM\FrmAlterardataehora.resx
+C:\Users\marcosferreira\Desktop\MTR\Principal\bin\Debug\FRM\FRMmemorando.resx
+C:\Users\marcosferreira\Desktop\MTR\Principal\bin\Debug\FRM\FrmMTR.resx
+C:\Users\marcosferreira\Desktop\MTR\Principal\bin\Debug\FRM\frmpesoliquido.resx
+C:\Users\marcosferreira\Desktop\MTR\Principal\bin\Debug\FRM\Somar.resx
+C:\Users\marcosferreira\Desktop\MTR\Principal\bin\Debug\FrmPrincipal.vb
+C:\Users\marcosferreira\Desktop\MTR\Principal\bin\Debug\FrmPrincipal.Designer.vb
+C:\Users\marcosferreira\Desktop\MTR\Principal\bin\Debug\FRM\Banco de dados Confirmação.Designer.vb
+C:\Users\marcosferreira\Desktop\MTR\Principal\bin\Debug\FRM\Banco de dados Confirmação.vb
+C:\Users\marcosferreira\Desktop\MTR\Principal\bin\Debug\FRM\ColocarFormularionoTopoChamarformulario.vb
+C:\Users\marcosferreira\Desktop\MTR\Principal\bin\Debug\FRM\FRMControle de Pesagem Manual.Designer.vb
+C:\Users\marcosferreira\Desktop\MTR\Principal\bin\Debug\FRM\FRMControle de Pesagem Manual.vb
+C:\Users\marcosferreira\Desktop\MTR\Principal\bin\Debug\FRM\EstimativaManual.Designer.vb
+C:\Users\marcosferreira\Desktop\MTR\Principal\bin\Debug\FRM\EstimativaManual.vb
+C:\Users\marcosferreira\Desktop\MTR\Principal\bin\Debug\FRM\FrmAlterardataehora.Designer.vb
+C:\Users\marcosferreira\Desktop\MTR\Principal\bin\Debug\FRM\FrmAlterardataehora.vb
+C:\Users\marcosferreira\Desktop\MTR\Principal\bin\Debug\FRM\FRMmemorando.Designer.vb
+C:\Users\marcosferreira\Desktop\MTR\Principal\bin\Debug\FRM\FRMmemorando.vb
+C:\Users\marcosferreira\Desktop\MTR\Principal\bin\Debug\FRM\FrmMTR.Designer.vb
+C:\Users\marcosferreira\Desktop\MTR\Principal\bin\Debug\FRM\FrmMTR.vb
+C:\Users\marcosferreira\Desktop\MTR\Principal\bin\Debug\FRM\frmpesoliquido.Designer.vb
+C:\Users\marcosferreira\Desktop\MTR\Principal\bin\Debug\FRM\frmpesoliquido.vb
+C:\Users\marcosferreira\Desktop\MTR\Principal\bin\Debug\FRM\SalvarOnlineContPesagemManual.vb
+C:\Users\marcosferreira\Desktop\MTR\Principal\bin\Debug\FRM\Somar.Designer.vb
+C:\Users\marcosferreira\Desktop\MTR\Principal\bin\Debug\FRM\Somar.vb
+C:\Users\marcosferreira\Desktop\MTR\Principal\bin\Debug\FRM\UsuarioLogado.vb
+C:\Users\marcosferreira\Desktop\MTR\Principal\bin\Debug\Principal.exe.config
+C:\Users\marcosferreira\Desktop\MTR\Principal\bin\Debug\Principal.exe
+C:\Users\marcosferreira\Desktop\MTR\Principal\bin\Debug\Principal.pdb
+C:\Users\marcosferreira\Desktop\MTR\Principal\bin\Debug\Principal.xml
+C:\Users\marcosferreira\Desktop\MTR\Principal\bin\Debug\pt-BR\Principal.resources.dll
+C:\Users\marcosferreira\Desktop\MTR\Principal\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\marcosferreira\Desktop\MTR\Principal\bin\Debug\Guna.UI2.dll
+C:\Users\marcosferreira\Desktop\MTR\Principal\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\marcosferreira\Desktop\MTR\Principal\obj\Debug\Principal.vbproj.ResolveComReference.cache
+C:\Users\marcosferreira\Desktop\MTR\Principal\obj\Debug\Principal.FrmPrincipal.resources
+C:\Users\marcosferreira\Desktop\MTR\Principal\obj\Debug\Principal.FRMConfirmarBancodeDados.resources
+C:\Users\marcosferreira\Desktop\MTR\Principal\obj\Debug\Principal.FRMConfigurar_banco_de_Dados.resources
+C:\Users\marcosferreira\Desktop\MTR\Principal\obj\Debug\Principal.FRMControlePesagemManual_.resources
+C:\Users\marcosferreira\Desktop\MTR\Principal\obj\Debug\Principal.FrmEstimativaManual.resources
+C:\Users\marcosferreira\Desktop\MTR\Principal\obj\Debug\Principal.FrmAlterardataehora.resources
+C:\Users\marcosferreira\Desktop\MTR\Principal\obj\Debug\Principal.FRMmemorando.resources
+C:\Users\marcosferreira\Desktop\MTR\Principal\obj\Debug\Principal.FrmMTR.resources
+C:\Users\marcosferreira\Desktop\MTR\Principal\obj\Debug\Principal.Frmpesoliquido.resources
+C:\Users\marcosferreira\Desktop\MTR\Principal\obj\Debug\Principal.FrmVolumeWindows.resources
+C:\Users\marcosferreira\Desktop\MTR\Principal\obj\Debug\Principal.FrmOpacity.resources
+C:\Users\marcosferreira\Desktop\MTR\Principal\obj\Debug\Principal.FrmSomarHoras.resources
+C:\Users\marcosferreira\Desktop\MTR\Principal\obj\Debug\Principal.Resources.resources
+C:\Users\marcosferreira\Desktop\MTR\Principal\obj\Debug\Principal.FrmAlterardataehora.pt-BR.resources
+C:\Users\marcosferreira\Desktop\MTR\Principal\obj\Debug\Principal.FrmSomarHoras.pt-BR.resources
+C:\Users\marcosferreira\Desktop\MTR\Principal\obj\Debug\Principal.vbproj.GenerateResource.cache
+C:\Users\marcosferreira\Desktop\MTR\Principal\obj\Debug\Principal.vbproj.CoreCompileInputs.cache
+C:\Users\marcosferreira\Desktop\MTR\Principal\obj\Debug\pt-BR\Principal.resources.dll
+C:\Users\marcosferreira\Desktop\MTR\Principal\obj\Debug\Principal.vbproj.CopyComplete
+C:\Users\marcosferreira\Desktop\MTR\Principal\obj\Debug\Principal.exe
+C:\Users\marcosferreira\Desktop\MTR\Principal\obj\Debug\Principal.xml
+C:\Users\marcosferreira\Desktop\MTR\Principal\obj\Debug\Principal.pdb
+C:\MTR\Principal\bin\Debug\FRM\FTP_Upload.vb
+C:\MTR\Principal\bin\Debug\FRM\TextboxMonetário.vb
+C:\MTR\Principal\bin\Debug\FRM\ClasseCnpj.vb
+C:\Users\marcosferreira\Desktop\MTR\Principal\bin\Debug\FRM\ClasseCnpj.vb
+C:\Users\marcosferreira\Desktop\MTR\Principal\bin\Debug\FRM\FTP_Upload.vb
+C:\Users\marcosferreira\Desktop\MTR\Principal\bin\Debug\FRM\TextboxMonetário.vb
+C:\Users\marcosferreira\Desktop\MTR\Principal\obj\Debug\Principal.TextboxMonetário.resources
+C:\Users\marcosferreira\Desktop\MTR\Principal\obj\Debug\Principal.vbprojAssemblyReference.cache
+C:\MTR\Principal\obj\Debug\Principal.TextboxMonetário.resources
+C:\Users\marcosferreira\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\bin\Debug\FrmPrincipal.resx
+C:\Users\marcosferreira\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\bin\Debug\FRM\Banco de dados Confirmação.resx
+C:\Users\marcosferreira\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\bin\Debug\FRM\FRMControle de Pesagem Manual.resx
+C:\Users\marcosferreira\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\bin\Debug\FRM\EstimativaManual.resx
+C:\Users\marcosferreira\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\bin\Debug\FRM\FrmAlterardataehora.resx
+C:\Users\marcosferreira\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\bin\Debug\FRM\FRMmemorando.resx
+C:\Users\marcosferreira\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\bin\Debug\FRM\FrmMTR.resx
+C:\Users\marcosferreira\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\bin\Debug\FRM\frmpesoliquido.resx
+C:\Users\marcosferreira\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\bin\Debug\FRM\Somar.resx
+C:\Users\marcosferreira\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\bin\Debug\FrmPrincipal.vb
+C:\Users\marcosferreira\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\bin\Debug\FrmPrincipal.Designer.vb
+C:\Users\marcosferreira\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\bin\Debug\FRM\Banco de dados Confirmação.Designer.vb
+C:\Users\marcosferreira\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\bin\Debug\FRM\Banco de dados Confirmação.vb
+C:\Users\marcosferreira\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\bin\Debug\FRM\ClasseCnpj.vb
+C:\Users\marcosferreira\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\bin\Debug\FRM\ColocarFormularionoTopoChamarformulario.vb
+C:\Users\marcosferreira\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\bin\Debug\FRM\FRMControle de Pesagem Manual.Designer.vb
+C:\Users\marcosferreira\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\bin\Debug\FRM\FRMControle de Pesagem Manual.vb
+C:\Users\marcosferreira\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\bin\Debug\FRM\EstimativaManual.Designer.vb
+C:\Users\marcosferreira\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\bin\Debug\FRM\EstimativaManual.vb
+C:\Users\marcosferreira\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\bin\Debug\FRM\FrmAlterardataehora.Designer.vb
+C:\Users\marcosferreira\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\bin\Debug\FRM\FrmAlterardataehora.vb
+C:\Users\marcosferreira\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\bin\Debug\FRM\FRMmemorando.Designer.vb
+C:\Users\marcosferreira\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\bin\Debug\FRM\FRMmemorando.vb
+C:\Users\marcosferreira\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\bin\Debug\FRM\FrmMTR.Designer.vb
+C:\Users\marcosferreira\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\bin\Debug\FRM\FrmMTR.vb
+C:\Users\marcosferreira\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\bin\Debug\FRM\frmpesoliquido.Designer.vb
+C:\Users\marcosferreira\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\bin\Debug\FRM\frmpesoliquido.vb
+C:\Users\marcosferreira\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\bin\Debug\FRM\FTP_Upload.vb
+C:\Users\marcosferreira\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\bin\Debug\FRM\SalvarOnlineContPesagemManual.vb
+C:\Users\marcosferreira\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\bin\Debug\FRM\Somar.Designer.vb
+C:\Users\marcosferreira\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\bin\Debug\FRM\Somar.vb
+C:\Users\marcosferreira\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\bin\Debug\FRM\TextboxMonetário.vb
+C:\Users\marcosferreira\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\bin\Debug\FRM\UsuarioLogado.vb
+C:\Users\marcosferreira\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\bin\Debug\Principal.exe.config
+C:\Users\marcosferreira\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\bin\Debug\Principal.exe
+C:\Users\marcosferreira\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\bin\Debug\Principal.pdb
+C:\Users\marcosferreira\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\bin\Debug\Principal.xml
+C:\Users\marcosferreira\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\bin\Debug\pt-BR\Principal.resources.dll
+C:\Users\marcosferreira\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\marcosferreira\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\bin\Debug\Guna.UI2.dll
+C:\Users\marcosferreira\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\marcosferreira\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\obj\Debug\Principal.vbproj.ResolveComReference.cache
+C:\Users\marcosferreira\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\obj\Debug\Principal.FrmPrincipal.resources
+C:\Users\marcosferreira\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\obj\Debug\Principal.FRMConfirmarBancodeDados.resources
+C:\Users\marcosferreira\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\obj\Debug\Principal.FRMConfigurar_banco_de_Dados.resources
+C:\Users\marcosferreira\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\obj\Debug\Principal.FRMControlePesagemManual_.resources
+C:\Users\marcosferreira\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\obj\Debug\Principal.FrmEstimativaManual.resources
+C:\Users\marcosferreira\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\obj\Debug\Principal.FrmAlterardataehora.resources
+C:\Users\marcosferreira\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\obj\Debug\Principal.FrmInfratores.resources
+C:\Users\marcosferreira\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\obj\Debug\Principal.FRMmemorando.resources
+C:\Users\marcosferreira\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\obj\Debug\Principal.FrmMTR.resources
+C:\Users\marcosferreira\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\obj\Debug\Principal.Frmpesoliquido.resources
+C:\Users\marcosferreira\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\obj\Debug\Principal.FrmVolumeWindows.resources
+C:\Users\marcosferreira\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\obj\Debug\Principal.FrmOpacity.resources
+C:\Users\marcosferreira\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\obj\Debug\Principal.FrmSomarHoras.resources
+C:\Users\marcosferreira\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\obj\Debug\Principal.TextboxMonetário.resources
+C:\Users\marcosferreira\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\obj\Debug\Principal.Resources.resources
+C:\Users\marcosferreira\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\obj\Debug\Principal.FrmAlterardataehora.pt-BR.resources
+C:\Users\marcosferreira\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\obj\Debug\Principal.FrmSomarHoras.pt-BR.resources
+C:\Users\marcosferreira\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\obj\Debug\Principal.vbproj.GenerateResource.cache
+C:\Users\marcosferreira\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\obj\Debug\Principal.vbproj.CoreCompileInputs.cache
+C:\Users\marcosferreira\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\obj\Debug\pt-BR\Principal.resources.dll
+C:\Users\marcosferreira\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\obj\Debug\Principal.vbproj.CopyComplete
+C:\Users\marcosferreira\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\obj\Debug\Principal.exe
+C:\Users\marcosferreira\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\obj\Debug\Principal.xml
+C:\Users\marcosferreira\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\obj\Debug\Principal.pdb
+C:\Users\marcosferreira\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\bin\Debug\FRM\FrmInfratores.resx
+C:\Users\marcosferreira\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\bin\Debug\FRM\FrmInfratores.Designer.vb
+C:\Users\marcosferreira\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\bin\Debug\FRM\FrmInfratores.vb
+C:\Users\marcosferreira\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\obj\Debug\Principal.vbprojAssemblyReference.cache
+C:\Users\marcosferreira\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\obj\Debug\Principal.FRMOPCOES.resources
+C:\Users\marcosferreira\Desktop\__\MTR\Principal\obj\Debug\Principal.vbprojAssemblyReference.cache
+C:\Users\marcosferreira\Desktop\__\MTR\Principal\obj\Debug\Principal.vbproj.ResolveComReference.cache
+C:\Users\marcosferreira\Desktop\__\MTR\Principal\obj\Debug\Principal.FrmPrincipal.resources
+C:\Users\marcosferreira\Desktop\__\MTR\Principal\obj\Debug\Principal.FRMConfirmarBancodeDados.resources
+C:\Users\marcosferreira\Desktop\__\MTR\Principal\obj\Debug\Principal.FRMConfigurar_banco_de_Dados.resources
+C:\Users\marcosferreira\Desktop\__\MTR\Principal\obj\Debug\Principal.FRMControlePesagemManual_.resources
+C:\Users\marcosferreira\Desktop\__\MTR\Principal\obj\Debug\Principal.FrmEstimativaManual.resources
+C:\Users\marcosferreira\Desktop\__\MTR\Principal\obj\Debug\Principal.FrmAlterardataehora.resources
+C:\Users\marcosferreira\Desktop\__\MTR\Principal\obj\Debug\Principal.FrmInfratores.resources
+C:\Users\marcosferreira\Desktop\__\MTR\Principal\obj\Debug\Principal.FRMmemorando.resources
+C:\Users\marcosferreira\Desktop\__\MTR\Principal\obj\Debug\Principal.FrmMTR.resources
+C:\Users\marcosferreira\Desktop\__\MTR\Principal\obj\Debug\Principal.FRMOPCOES.resources
+C:\Users\marcosferreira\Desktop\__\MTR\Principal\obj\Debug\Principal.Frmpesoliquido.resources
+C:\Users\marcosferreira\Desktop\__\MTR\Principal\obj\Debug\Principal.FrmVolumeWindows.resources
+C:\Users\marcosferreira\Desktop\__\MTR\Principal\obj\Debug\Principal.FrmOpacity.resources
+C:\Users\marcosferreira\Desktop\__\MTR\Principal\obj\Debug\Principal.FrmSomarHoras.resources
+C:\Users\marcosferreira\Desktop\__\MTR\Principal\obj\Debug\Principal.TextboxMonetário.resources
+C:\Users\marcosferreira\Desktop\__\MTR\Principal\obj\Debug\Principal.Resources.resources
+C:\Users\marcosferreira\Desktop\__\MTR\Principal\obj\Debug\Principal.FrmAlterardataehora.pt-BR.resources
+C:\Users\marcosferreira\Desktop\__\MTR\Principal\obj\Debug\Principal.FrmSomarHoras.pt-BR.resources
+C:\Users\marcosferreira\Desktop\__\MTR\Principal\obj\Debug\Principal.vbproj.GenerateResource.cache
+C:\Users\marcosferreira\Desktop\__\MTR\Principal\obj\Debug\Principal.vbproj.CoreCompileInputs.cache
+C:\Users\marcosferreira\Desktop\__\MTR\Principal\obj\Debug\Principal.exe
+C:\Users\marcosferreira\Desktop\__\MTR\Principal\obj\Debug\Principal.xml
+C:\Users\marcosferreira\Desktop\__\MTR\Principal\obj\Debug\Principal.pdb
+C:\Users\marcosferreira\Desktop\__\MTR\Principal\bin\Debug\FrmPrincipal.resx
+C:\Users\marcosferreira\Desktop\__\MTR\Principal\bin\Debug\FRM\Banco de dados Confirmação.resx
+C:\Users\marcosferreira\Desktop\__\MTR\Principal\bin\Debug\FRM\FRMControle de Pesagem Manual.resx
+C:\Users\marcosferreira\Desktop\__\MTR\Principal\bin\Debug\FRM\EstimativaManual.resx
+C:\Users\marcosferreira\Desktop\__\MTR\Principal\bin\Debug\FRM\FrmAlterardataehora.resx
+C:\Users\marcosferreira\Desktop\__\MTR\Principal\bin\Debug\FRM\FrmInfratores.resx
+C:\Users\marcosferreira\Desktop\__\MTR\Principal\bin\Debug\FRM\FRMmemorando.resx
+C:\Users\marcosferreira\Desktop\__\MTR\Principal\bin\Debug\FRM\FrmMTR.resx
+C:\Users\marcosferreira\Desktop\__\MTR\Principal\bin\Debug\FRM\frmpesoliquido.resx
+C:\Users\marcosferreira\Desktop\__\MTR\Principal\bin\Debug\FRM\Somar.resx
+C:\Users\marcosferreira\Desktop\__\MTR\Principal\bin\Debug\FrmPrincipal.vb
+C:\Users\marcosferreira\Desktop\__\MTR\Principal\bin\Debug\FrmPrincipal.Designer.vb
+C:\Users\marcosferreira\Desktop\__\MTR\Principal\bin\Debug\FRM\Banco de dados Confirmação.Designer.vb
+C:\Users\marcosferreira\Desktop\__\MTR\Principal\bin\Debug\FRM\Banco de dados Confirmação.vb
+C:\Users\marcosferreira\Desktop\__\MTR\Principal\bin\Debug\FRM\ClasseCnpj.vb
+C:\Users\marcosferreira\Desktop\__\MTR\Principal\bin\Debug\FRM\ColocarFormularionoTopoChamarformulario.vb
+C:\Users\marcosferreira\Desktop\__\MTR\Principal\bin\Debug\FRM\FRMControle de Pesagem Manual.Designer.vb
+C:\Users\marcosferreira\Desktop\__\MTR\Principal\bin\Debug\FRM\FRMControle de Pesagem Manual.vb
+C:\Users\marcosferreira\Desktop\__\MTR\Principal\bin\Debug\FRM\EstimativaManual.Designer.vb
+C:\Users\marcosferreira\Desktop\__\MTR\Principal\bin\Debug\FRM\EstimativaManual.vb
+C:\Users\marcosferreira\Desktop\__\MTR\Principal\bin\Debug\FRM\FrmAlterardataehora.Designer.vb
+C:\Users\marcosferreira\Desktop\__\MTR\Principal\bin\Debug\FRM\FrmAlterardataehora.vb
+C:\Users\marcosferreira\Desktop\__\MTR\Principal\bin\Debug\FRM\FrmInfratores.Designer.vb
+C:\Users\marcosferreira\Desktop\__\MTR\Principal\bin\Debug\FRM\FrmInfratores.vb
+C:\Users\marcosferreira\Desktop\__\MTR\Principal\bin\Debug\FRM\FRMmemorando.Designer.vb
+C:\Users\marcosferreira\Desktop\__\MTR\Principal\bin\Debug\FRM\FRMmemorando.vb
+C:\Users\marcosferreira\Desktop\__\MTR\Principal\bin\Debug\FRM\FrmMTR.Designer.vb
+C:\Users\marcosferreira\Desktop\__\MTR\Principal\bin\Debug\FRM\FrmMTR.vb
+C:\Users\marcosferreira\Desktop\__\MTR\Principal\bin\Debug\FRM\frmpesoliquido.Designer.vb
+C:\Users\marcosferreira\Desktop\__\MTR\Principal\bin\Debug\FRM\frmpesoliquido.vb
+C:\Users\marcosferreira\Desktop\__\MTR\Principal\bin\Debug\FRM\FTP_Upload.vb
+C:\Users\marcosferreira\Desktop\__\MTR\Principal\bin\Debug\FRM\SalvarOnlineContPesagemManual.vb
+C:\Users\marcosferreira\Desktop\__\MTR\Principal\bin\Debug\FRM\Somar.Designer.vb
+C:\Users\marcosferreira\Desktop\__\MTR\Principal\bin\Debug\FRM\Somar.vb
+C:\Users\marcosferreira\Desktop\__\MTR\Principal\bin\Debug\FRM\TextboxMonetário.vb
+C:\Users\marcosferreira\Desktop\__\MTR\Principal\bin\Debug\FRM\UsuarioLogado.vb
+C:\Users\marcosferreira\Desktop\__\MTR\Principal\bin\Debug\Principal.exe.config
+C:\Users\marcosferreira\Desktop\__\MTR\Principal\bin\Debug\Principal.exe
+C:\Users\marcosferreira\Desktop\__\MTR\Principal\bin\Debug\Principal.pdb
+C:\Users\marcosferreira\Desktop\__\MTR\Principal\bin\Debug\Principal.xml
+C:\Users\marcosferreira\Desktop\__\MTR\Principal\bin\Debug\pt-BR\Principal.resources.dll
+C:\Users\marcosferreira\Desktop\__\MTR\Principal\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\marcosferreira\Desktop\__\MTR\Principal\bin\Debug\Guna.UI2.dll
+C:\Users\marcosferreira\Desktop\__\MTR\Principal\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\marcosferreira\Desktop\__\MTR\Principal\obj\Debug\pt-BR\Principal.resources.dll
+C:\Users\marcosferreira\Desktop\__\MTR\Principal\obj\Debug\Principal.vbproj.CopyComplete
+C:\Users\mmarc\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\obj\Debug\Principal.vbprojAssemblyReference.cache
+C:\Users\mmarc\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\obj\Debug\Principal.vbproj.ResolveComReference.cache
+C:\Users\mmarc\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\obj\Debug\Principal.FrmPrincipal.resources
+C:\Users\mmarc\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\obj\Debug\Principal.FRMConfirmarBancodeDados.resources
+C:\Users\mmarc\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\obj\Debug\Principal.FRMConfigurar_banco_de_Dados.resources
+C:\Users\mmarc\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\obj\Debug\Principal.FRMControlePesagemManual_.resources
+C:\Users\mmarc\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\obj\Debug\Principal.FrmEstimativaManual.resources
+C:\Users\mmarc\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\obj\Debug\Principal.FrmAlterardataehora.resources
+C:\Users\mmarc\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\obj\Debug\Principal.FrmInfratores.resources
+C:\Users\mmarc\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\obj\Debug\Principal.FRMmemorando.resources
+C:\Users\mmarc\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\obj\Debug\Principal.FrmMTR.resources
+C:\Users\mmarc\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\obj\Debug\Principal.FRMopcoes.resources
+C:\Users\mmarc\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\obj\Debug\Principal.Frmpesoliquido.resources
+C:\Users\mmarc\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\obj\Debug\Principal.FrmVolumeWindows.resources
+C:\Users\mmarc\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\obj\Debug\Principal.FrmOpacity.resources
+C:\Users\mmarc\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\obj\Debug\Principal.FrmSomarHoras.resources
+C:\Users\mmarc\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\obj\Debug\Principal.TextboxMonetário.resources
+C:\Users\mmarc\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\obj\Debug\Principal.Resources.resources
+C:\Users\mmarc\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\obj\Debug\Principal.FrmAlterardataehora.pt-BR.resources
+C:\Users\mmarc\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\obj\Debug\Principal.FrmSomarHoras.pt-BR.resources
+C:\Users\mmarc\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\obj\Debug\Principal.vbproj.GenerateResource.cache
+C:\Users\mmarc\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\obj\Debug\Principal.vbproj.CoreCompileInputs.cache
+C:\Users\mmarc\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\obj\Debug\Principal.exe
+C:\Users\mmarc\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\obj\Debug\Principal.xml
+C:\Users\mmarc\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\obj\Debug\Principal.pdb
+C:\Users\mmarc\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\bin\Debug\FrmPrincipal.resx
+C:\Users\mmarc\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\bin\Debug\FRM\Banco de dados Confirmação.resx
+C:\Users\mmarc\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\bin\Debug\FRM\FRMControle de Pesagem Manual.resx
+C:\Users\mmarc\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\bin\Debug\FRM\EstimativaManual.resx
+C:\Users\mmarc\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\bin\Debug\FRM\FrmAlterardataehora.resx
+C:\Users\mmarc\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\bin\Debug\FRM\FrmInfratores.resx
+C:\Users\mmarc\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\bin\Debug\FRM\FRMmemorando.resx
+C:\Users\mmarc\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\bin\Debug\FRM\FrmMTR.resx
+C:\Users\mmarc\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\bin\Debug\FRM\frmpesoliquido.resx
+C:\Users\mmarc\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\bin\Debug\FRM\Somar.resx
+C:\Users\mmarc\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\bin\Debug\FrmPrincipal.vb
+C:\Users\mmarc\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\bin\Debug\FrmPrincipal.Designer.vb
+C:\Users\mmarc\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\bin\Debug\FRM\Banco de dados Confirmação.Designer.vb
+C:\Users\mmarc\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\bin\Debug\FRM\Banco de dados Confirmação.vb
+C:\Users\mmarc\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\bin\Debug\FRM\ClasseCnpj.vb
+C:\Users\mmarc\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\bin\Debug\FRM\ColocarFormularionoTopoChamarformulario.vb
+C:\Users\mmarc\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\bin\Debug\FRM\FRMControle de Pesagem Manual.Designer.vb
+C:\Users\mmarc\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\bin\Debug\FRM\FRMControle de Pesagem Manual.vb
+C:\Users\mmarc\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\bin\Debug\FRM\EstimativaManual.Designer.vb
+C:\Users\mmarc\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\bin\Debug\FRM\EstimativaManual.vb
+C:\Users\mmarc\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\bin\Debug\FRM\FrmAlterardataehora.Designer.vb
+C:\Users\mmarc\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\bin\Debug\FRM\FrmAlterardataehora.vb
+C:\Users\mmarc\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\bin\Debug\FRM\FrmInfratores.Designer.vb
+C:\Users\mmarc\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\bin\Debug\FRM\FrmInfratores.vb
+C:\Users\mmarc\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\bin\Debug\FRM\FRMmemorando.Designer.vb
+C:\Users\mmarc\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\bin\Debug\FRM\FRMmemorando.vb
+C:\Users\mmarc\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\bin\Debug\FRM\FrmMTR.Designer.vb
+C:\Users\mmarc\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\bin\Debug\FRM\FrmMTR.vb
+C:\Users\mmarc\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\bin\Debug\FRM\frmpesoliquido.Designer.vb
+C:\Users\mmarc\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\bin\Debug\FRM\frmpesoliquido.vb
+C:\Users\mmarc\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\bin\Debug\FRM\FTP_Upload.vb
+C:\Users\mmarc\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\bin\Debug\FRM\SalvarOnlineContPesagemManual.vb
+C:\Users\mmarc\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\bin\Debug\FRM\Somar.Designer.vb
+C:\Users\mmarc\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\bin\Debug\FRM\Somar.vb
+C:\Users\mmarc\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\bin\Debug\FRM\TextboxMonetário.vb
+C:\Users\mmarc\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\bin\Debug\FRM\UsuarioLogado.vb
+C:\Users\mmarc\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\bin\Debug\Principal.exe.config
+C:\Users\mmarc\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\bin\Debug\Principal.exe
+C:\Users\mmarc\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\bin\Debug\Principal.pdb
+C:\Users\mmarc\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\bin\Debug\Principal.xml
+C:\Users\mmarc\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\bin\Debug\pt-BR\Principal.resources.dll
+C:\Users\mmarc\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\mmarc\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\bin\Debug\Guna.UI2.dll
+C:\Users\mmarc\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\mmarc\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\obj\Debug\pt-BR\Principal.resources.dll
+C:\Users\mmarc\OneDrive - Queiroz Galvão S.A\Projetos\MTR\Principal\obj\Debug\Principal.vbproj.CopyComplete
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\FrmPrincipal.resx
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\FRM\Banco de dados Confirmação.resx
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\FRM\FRMControle de Pesagem Manual.resx
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\FRM\EstimativaManual.resx
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\FRM\FrmAlterardataehora.resx
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\FRM\FrmInfratores.resx
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\FRM\FRMmemorando.resx
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\FRM\FrmMTR.resx
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\FRM\frmpesoliquido.resx
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\FRM\Somar.resx
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\FrmPrincipal.vb
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\FrmPrincipal.Designer.vb
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\FRM\Banco de dados Confirmação.Designer.vb
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\FRM\Banco de dados Confirmação.vb
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\FRM\ClasseCnpj.vb
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\FRM\ColocarFormularionoTopoChamarformulario.vb
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\FRM\FRMControle de Pesagem Manual.Designer.vb
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\FRM\FRMControle de Pesagem Manual.vb
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\FRM\EstimativaManual.Designer.vb
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\FRM\EstimativaManual.vb
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\FRM\FrmAlterardataehora.Designer.vb
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\FRM\FrmAlterardataehora.vb
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\FRM\FrmInfratores.Designer.vb
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\FRM\FrmInfratores.vb
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\FRM\FRMmemorando.Designer.vb
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\FRM\FRMmemorando.vb
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\FRM\FrmMTR.Designer.vb
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\FRM\FrmMTR.vb
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\FRM\frmpesoliquido.Designer.vb
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\FRM\frmpesoliquido.vb
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\FRM\FTP_Upload.vb
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\FRM\SalvarOnlineContPesagemManual.vb
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\FRM\Somar.Designer.vb
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\FRM\Somar.vb
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\FRM\TextboxMonetário.vb
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\FRM\UsuarioLogado.vb
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\Principal.exe.config
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\Principal.exe
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\Principal.pdb
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\Principal.xml
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\pt-BR\Principal.resources.dll
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\Guna.UI2.dll
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\obj\Debug\Principal.vbproj.ResolveComReference.cache
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\obj\Debug\Principal.FrmPrincipal.resources
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\obj\Debug\Principal.FRMConfirmarBancodeDados.resources
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\obj\Debug\Principal.FRMConfigurar_banco_de_Dados.resources
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\obj\Debug\Principal.FRMControlePesagemManual_.resources
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\obj\Debug\Principal.FrmEstimativaManual.resources
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\obj\Debug\Principal.FrmAlterardataehora.resources
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\obj\Debug\Principal.FrmInfratores.resources
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\obj\Debug\Principal.FRMmemorando.resources
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\obj\Debug\Principal.FrmMTR.resources
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\obj\Debug\Principal.FRMopcoes.resources
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\obj\Debug\Principal.Frmpesoliquido.resources
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\obj\Debug\Principal.FrmVolumeWindows.resources
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\obj\Debug\Principal.FrmOpacity.resources
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\obj\Debug\Principal.FrmSomarHoras.resources
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\obj\Debug\Principal.TextboxMonetário.resources
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\obj\Debug\Principal.Resources.resources
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\obj\Debug\Principal.FrmAlterardataehora.pt-BR.resources
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\obj\Debug\Principal.FrmSomarHoras.pt-BR.resources
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\obj\Debug\Principal.vbproj.GenerateResource.cache
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\obj\Debug\Principal.vbproj.CoreCompileInputs.cache
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\obj\Debug\pt-BR\Principal.resources.dll
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\obj\Debug\Principal.exe
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\obj\Debug\Principal.xml
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\obj\Debug\Principal.pdb
+C:\MTR\Principal\bin\Debug\FRM\FrmInfratores.resx
+C:\MTR\Principal\bin\Debug\FRM\FrmInfratores.Designer.vb
+C:\MTR\Principal\bin\Debug\FRM\FrmInfratores.vb
+C:\MTR\Principal\obj\Debug\Principal.vbproj.AssemblyReference.cache
+C:\MTR\Principal\obj\Debug\Principal.FrmInfratores.resources
+C:\MTR\Principal\obj\Debug\Principal.FRMopcoes.resources
+C:\Temp\MTR\Principal\bin\Debug\FrmPrincipal.resx
+C:\Temp\MTR\Principal\bin\Debug\FRM\Banco de dados Confirmação.resx
+C:\Temp\MTR\Principal\bin\Debug\FRM\FRMControle de Pesagem Manual.resx
+C:\Temp\MTR\Principal\bin\Debug\FRM\EstimativaManual.resx
+C:\Temp\MTR\Principal\bin\Debug\FRM\FrmAlterardataehora.resx
+C:\Temp\MTR\Principal\bin\Debug\FRM\FrmInfratores.resx
+C:\Temp\MTR\Principal\bin\Debug\FRM\FRMmemorando.resx
+C:\Temp\MTR\Principal\bin\Debug\FRM\FrmMTR.resx
+C:\Temp\MTR\Principal\bin\Debug\FRM\frmpesoliquido.resx
+C:\Temp\MTR\Principal\bin\Debug\FRM\Somar.resx
+C:\Temp\MTR\Principal\bin\Debug\FrmPrincipal.vb
+C:\Temp\MTR\Principal\bin\Debug\FrmPrincipal.Designer.vb
+C:\Temp\MTR\Principal\bin\Debug\FRM\Banco de dados Confirmação.Designer.vb
+C:\Temp\MTR\Principal\bin\Debug\FRM\Banco de dados Confirmação.vb
+C:\Temp\MTR\Principal\bin\Debug\FRM\ClasseCnpj.vb
+C:\Temp\MTR\Principal\bin\Debug\FRM\ColocarFormularionoTopoChamarformulario.vb
+C:\Temp\MTR\Principal\bin\Debug\FRM\FRMControle de Pesagem Manual.Designer.vb
+C:\Temp\MTR\Principal\bin\Debug\FRM\FRMControle de Pesagem Manual.vb
+C:\Temp\MTR\Principal\bin\Debug\FRM\EstimativaManual.Designer.vb
+C:\Temp\MTR\Principal\bin\Debug\FRM\EstimativaManual.vb
+C:\Temp\MTR\Principal\bin\Debug\FRM\FrmAlterardataehora.Designer.vb
+C:\Temp\MTR\Principal\bin\Debug\FRM\FrmAlterardataehora.vb
+C:\Temp\MTR\Principal\bin\Debug\FRM\FrmInfratores.Designer.vb
+C:\Temp\MTR\Principal\bin\Debug\FRM\FrmInfratores.vb
+C:\Temp\MTR\Principal\bin\Debug\FRM\FRMmemorando.Designer.vb
+C:\Temp\MTR\Principal\bin\Debug\FRM\FRMmemorando.vb
+C:\Temp\MTR\Principal\bin\Debug\FRM\FrmMTR.Designer.vb
+C:\Temp\MTR\Principal\bin\Debug\FRM\FrmMTR.vb
+C:\Temp\MTR\Principal\bin\Debug\FRM\frmpesoliquido.Designer.vb
+C:\Temp\MTR\Principal\bin\Debug\FRM\frmpesoliquido.vb
+C:\Temp\MTR\Principal\bin\Debug\FRM\FTP_Upload.vb
+C:\Temp\MTR\Principal\bin\Debug\FRM\SalvarOnlineContPesagemManual.vb
+C:\Temp\MTR\Principal\bin\Debug\FRM\Somar.Designer.vb
+C:\Temp\MTR\Principal\bin\Debug\FRM\Somar.vb
+C:\Temp\MTR\Principal\bin\Debug\FRM\TextboxMonetário.vb
+C:\Temp\MTR\Principal\bin\Debug\FRM\UsuarioLogado.vb
+C:\Temp\MTR\Principal\bin\Debug\Principal.exe.config
+C:\Temp\MTR\Principal\bin\Debug\Principal.exe
+C:\Temp\MTR\Principal\bin\Debug\Principal.pdb
+C:\Temp\MTR\Principal\bin\Debug\Principal.xml
+C:\Temp\MTR\Principal\bin\Debug\pt-BR\Principal.resources.dll
+C:\Temp\MTR\Principal\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Temp\MTR\Principal\bin\Debug\Guna.UI2.dll
+C:\Temp\MTR\Principal\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Temp\MTR\Principal\obj\Debug\Principal.vbproj.ResolveComReference.cache
+C:\Temp\MTR\Principal\obj\Debug\Principal.FrmPrincipal.resources
+C:\Temp\MTR\Principal\obj\Debug\Principal.FRMConfirmarBancodeDados.resources
+C:\Temp\MTR\Principal\obj\Debug\Principal.FRMConfigurar_banco_de_Dados.resources
+C:\Temp\MTR\Principal\obj\Debug\Principal.FRMControlePesagemManual_.resources
+C:\Temp\MTR\Principal\obj\Debug\Principal.FrmEstimativaManual.resources
+C:\Temp\MTR\Principal\obj\Debug\Principal.FrmAlterardataehora.resources
+C:\Temp\MTR\Principal\obj\Debug\Principal.FrmInfratores.resources
+C:\Temp\MTR\Principal\obj\Debug\Principal.FRMmemorando.resources
+C:\Temp\MTR\Principal\obj\Debug\Principal.FrmMTR.resources
+C:\Temp\MTR\Principal\obj\Debug\Principal.FRMopcoes.resources
+C:\Temp\MTR\Principal\obj\Debug\Principal.Frmpesoliquido.resources
+C:\Temp\MTR\Principal\obj\Debug\Principal.FrmVolumeWindows.resources
+C:\Temp\MTR\Principal\obj\Debug\Principal.FrmOpacity.resources
+C:\Temp\MTR\Principal\obj\Debug\Principal.FrmSomarHoras.resources
+C:\Temp\MTR\Principal\obj\Debug\Principal.TextboxMonetário.resources
+C:\Temp\MTR\Principal\obj\Debug\Principal.Resources.resources
+C:\Temp\MTR\Principal\obj\Debug\Principal.FrmAlterardataehora.pt-BR.resources
+C:\Temp\MTR\Principal\obj\Debug\Principal.FrmSomarHoras.pt-BR.resources
+C:\Temp\MTR\Principal\obj\Debug\Principal.vbproj.GenerateResource.cache
+C:\Temp\MTR\Principal\obj\Debug\Principal.vbproj.CoreCompileInputs.cache
+C:\Temp\MTR\Principal\obj\Debug\pt-BR\Principal.resources.dll
+C:\Temp\MTR\Principal\obj\Debug\Principal.vbproj.CopyComplete
+C:\Temp\MTR\Principal\obj\Debug\Principal.exe
+C:\Temp\MTR\Principal\obj\Debug\Principal.xml
+C:\Temp\MTR\Principal\obj\Debug\Principal.pdb
+C:\Temp\MTR\Principal\obj\Debug\Principal.InputBox_Personalizado.resources
+C:\Temp\MTR\Principal\obj\Debug\Principal.vbproj.AssemblyReference.cache
+D:\repos\MTR\Principal\bin\Debug\FrmPrincipal.resx
+D:\repos\MTR\Principal\bin\Debug\FRM\Banco de dados Confirmação.resx
+D:\repos\MTR\Principal\bin\Debug\FRM\FRMControle de Pesagem Manual.resx
+D:\repos\MTR\Principal\bin\Debug\FRM\EstimativaManual.resx
+D:\repos\MTR\Principal\bin\Debug\FRM\FrmAlterardataehora.resx
+D:\repos\MTR\Principal\bin\Debug\FRM\FrmInfratores.resx
+D:\repos\MTR\Principal\bin\Debug\FRM\FRMmemorando.resx
+D:\repos\MTR\Principal\bin\Debug\FRM\FrmMTR.resx
+D:\repos\MTR\Principal\bin\Debug\FRM\frmpesoliquido.resx
+D:\repos\MTR\Principal\bin\Debug\FRM\Somar.resx
+D:\repos\MTR\Principal\bin\Debug\FrmPrincipal.vb
+D:\repos\MTR\Principal\bin\Debug\FrmPrincipal.Designer.vb
+D:\repos\MTR\Principal\bin\Debug\FRM\Banco de dados Confirmação.Designer.vb
+D:\repos\MTR\Principal\bin\Debug\FRM\Banco de dados Confirmação.vb
+D:\repos\MTR\Principal\bin\Debug\FRM\ClasseCnpj.vb
+D:\repos\MTR\Principal\bin\Debug\FRM\ColocarFormularionoTopoChamarformulario.vb
+D:\repos\MTR\Principal\bin\Debug\FRM\FRMControle de Pesagem Manual.Designer.vb
+D:\repos\MTR\Principal\bin\Debug\FRM\FRMControle de Pesagem Manual.vb
+D:\repos\MTR\Principal\bin\Debug\FRM\EstimativaManual.Designer.vb
+D:\repos\MTR\Principal\bin\Debug\FRM\EstimativaManual.vb
+D:\repos\MTR\Principal\bin\Debug\FRM\FrmAlterardataehora.Designer.vb
+D:\repos\MTR\Principal\bin\Debug\FRM\FrmAlterardataehora.vb
+D:\repos\MTR\Principal\bin\Debug\FRM\FrmInfratores.Designer.vb
+D:\repos\MTR\Principal\bin\Debug\FRM\FrmInfratores.vb
+D:\repos\MTR\Principal\bin\Debug\FRM\FRMmemorando.Designer.vb
+D:\repos\MTR\Principal\bin\Debug\FRM\FRMmemorando.vb
+D:\repos\MTR\Principal\bin\Debug\FRM\FrmMTR.Designer.vb
+D:\repos\MTR\Principal\bin\Debug\FRM\FrmMTR.vb
+D:\repos\MTR\Principal\bin\Debug\FRM\frmpesoliquido.Designer.vb
+D:\repos\MTR\Principal\bin\Debug\FRM\frmpesoliquido.vb
+D:\repos\MTR\Principal\bin\Debug\FRM\FTP_Upload.vb
+D:\repos\MTR\Principal\bin\Debug\FRM\SalvarOnlineContPesagemManual.vb
+D:\repos\MTR\Principal\bin\Debug\FRM\Somar.Designer.vb
+D:\repos\MTR\Principal\bin\Debug\FRM\Somar.vb
+D:\repos\MTR\Principal\bin\Debug\FRM\TextboxMonetário.vb
+D:\repos\MTR\Principal\bin\Debug\FRM\UsuarioLogado.vb
+D:\repos\MTR\Principal\bin\Debug\Principal.exe.config
+D:\repos\MTR\Principal\bin\Debug\Principal.exe
+D:\repos\MTR\Principal\bin\Debug\Principal.pdb
+D:\repos\MTR\Principal\bin\Debug\Principal.xml
+D:\repos\MTR\Principal\bin\Debug\pt-BR\Principal.resources.dll
+D:\repos\MTR\Principal\bin\Debug\Bunifu_UI_v1.52.dll
+D:\repos\MTR\Principal\bin\Debug\Guna.UI2.dll
+D:\repos\MTR\Principal\bin\Debug\Tulpep.NotificationWindow.dll
+D:\repos\MTR\Principal\obj\Debug\Principal.vbproj.AssemblyReference.cache
+D:\repos\MTR\Principal\obj\Debug\Principal.vbproj.ResolveComReference.cache
+D:\repos\MTR\Principal\obj\Debug\Principal.FrmPrincipal.resources
+D:\repos\MTR\Principal\obj\Debug\Principal.FRMConfirmarBancodeDados.resources
+D:\repos\MTR\Principal\obj\Debug\Principal.FRMConfigurar_banco_de_Dados.resources
+D:\repos\MTR\Principal\obj\Debug\Principal.FRMControlePesagemManual_.resources
+D:\repos\MTR\Principal\obj\Debug\Principal.FrmEstimativaManual.resources
+D:\repos\MTR\Principal\obj\Debug\Principal.FrmAlterardataehora.resources
+D:\repos\MTR\Principal\obj\Debug\Principal.FrmInfratores.resources
+D:\repos\MTR\Principal\obj\Debug\Principal.FRMmemorando.resources
+D:\repos\MTR\Principal\obj\Debug\Principal.FrmMTR.resources
+D:\repos\MTR\Principal\obj\Debug\Principal.FRMopcoes.resources
+D:\repos\MTR\Principal\obj\Debug\Principal.Frmpesoliquido.resources
+D:\repos\MTR\Principal\obj\Debug\Principal.FrmVolumeWindows.resources
+D:\repos\MTR\Principal\obj\Debug\Principal.InputBox_Personalizado.resources
+D:\repos\MTR\Principal\obj\Debug\Principal.FrmOpacity.resources
+D:\repos\MTR\Principal\obj\Debug\Principal.FrmSomarHoras.resources
+D:\repos\MTR\Principal\obj\Debug\Principal.TextboxMonetário.resources
+D:\repos\MTR\Principal\obj\Debug\Principal.Resources.resources
+D:\repos\MTR\Principal\obj\Debug\Principal.FrmAlterardataehora.pt-BR.resources
+D:\repos\MTR\Principal\obj\Debug\Principal.FrmSomarHoras.pt-BR.resources
+D:\repos\MTR\Principal\obj\Debug\Principal.vbproj.GenerateResource.cache
+D:\repos\MTR\Principal\obj\Debug\Principal.vbproj.CoreCompileInputs.cache
+D:\repos\MTR\Principal\obj\Debug\pt-BR\Principal.resources.dll
+D:\repos\MTR\Principal\obj\Debug\Principal.vbproj.CopyComplete
+D:\repos\MTR\Principal\obj\Debug\Principal.exe
+D:\repos\MTR\Principal\obj\Debug\Principal.xml
+D:\repos\MTR\Principal\obj\Debug\Principal.pdb
+D:\repos\MTR\Principal\bin\Debug\Newtonsoft.Json.dll
+D:\repos\MTR\Principal\bin\Debug\Newtonsoft.Json.xml
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\Newtonsoft.Json.dll
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\bin\Debug\Newtonsoft.Json.xml
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\obj\Debug\Principal.InputBox_Personalizado.resources
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\obj\Debug\Principal.FRMConfiguracaoFeam.resources
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\obj\Debug\Principal.vbproj.CopyComplete
+C:\Users\marcosferreira\Desktop\documents\MTR\Principal\obj\Debug\Principal.vbproj.AssemblyReference.cache

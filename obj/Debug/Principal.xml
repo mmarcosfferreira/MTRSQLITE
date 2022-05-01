@@ -1,0 +1,559 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Principal
+</name>
+</assembly>
+<members>
+<member name="T:Principal.My.Resources.Resources">
+<summary>
+  Uma classe de recurso de tipo de alta segurança, para pesquisar cadeias de caracteres localizadas etc.
+</summary>
+</member>
+<member name="P:Principal.My.Resources.Resources.ResourceManager">
+<summary>
+  Retorna a instância de ResourceManager armazenada em cache usada por essa classe.
+</summary>
+</member>
+<member name="P:Principal.My.Resources.Resources.Culture">
+<summary>
+  Substitui a propriedade CurrentUICulture do thread atual para todas as
+  pesquisas de recursos que usam essa classe de recurso de tipo de alta segurança.
+</summary>
+</member>
+<member name="P:Principal.My.Resources.Resources.accept">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Principal.My.Resources.Resources.add">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Principal.My.Resources.Resources.bullet_blue">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Principal.My.Resources.Resources.bullet_disk">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Principal.My.Resources.Resources.bullet_go">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Principal.My.Resources.Resources.bullet_green">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Principal.My.Resources.Resources.bullet_key">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Principal.My.Resources.Resources.bullet_orange">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Principal.My.Resources.Resources.bullet_pink">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Principal.My.Resources.Resources.bullet_purple">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Principal.My.Resources.Resources.bullet_red">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Principal.My.Resources.Resources.configuration_config_system_1540">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Principal.My.Resources.Resources.fbvasfhjvas">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Principal.My.Resources.Resources.find">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Principal.My.Resources.Resources.key">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Principal.My.Resources.Resources.lock">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Principal.My.Resources.Resources.lock_edit">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Principal.My.Resources.Resources.OOOI">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Principal.My.Resources.Resources.sound">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Principal.My.Resources.Resources.sound_add">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Principal.My.Resources.Resources.sound_delete">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Principal.My.Resources.Resources.sound_mute">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Principal.My.Resources.Resources.sound_none">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Principal.My.Resources.Resources.top2">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="M:Principal.DadosEmpresa.Salvar(System.String,System.String)">
+ <summary>
+ Método que executa uma rotina p Salvar arquivo JSon
+ </summary>
+ <param name="strJason">strJason vai receber uma string Json</param>
+ <param name="path">O nome de um arquivo com o caminho todo</param>
+</member>
+<member name="P:Principal.ManifestoRecebimentoJSON.ManifestoCodigo">
+ <summary>
+ manifestoCodigo, Tipo string,Tamanho 10 e obrigatorio 
+ </summary>
+ <returns></returns>
+</member>
+<member name="P:Principal.ManifestoRecebimentoJSON.CnpGerador">
+ <summary>
+ CnpGerador tipo:String (CNPJ OU CPF), tamanho: 14, obrigatorio: Sim
+ </summary>
+ <returns></returns>
+</member>
+<member name="P:Principal.ManifestoRecebimentoJSON.CnpTransportador">
+ <summary>
+ CAMPO:cnpTransportador, TIPO:String (CNPJ OU CPF), TAMANHO:14, OBRIGATÓRIO:Sim
+ </summary>
+ <returns></returns>
+</member>
+<member name="P:Principal.ManifestoRecebimentoJSON.RecebimentoMtrResponsavel">
+ <summary>
+ CAMPO:recebimentoMtrResponsavel, TIPO:String, TAMANHO:150, OBRIGATÓRIO:sim
+ </summary>
+ <returns></returns>
+</member>
+<member name="P:Principal.ManifestoRecebimentoJSON.RecebimentoMtrCargo">
+ <summary>
+ CAMPO:recebimentoMtrCargo, TIPO:string, TAMANHO:100, OBRIGATÓRIO:sim
+ </summary>
+ <returns></returns>
+</member>
+<member name="P:Principal.ManifestoRecebimentoJSON.RecebimentoMtrData">
+ <summary>
+ CAMPO:recebimentoMtrData, TIPO:String (YYYYMMDD), TAMANHO:8, OBRIGATÓRIO: sim
+ </summary>
+ <returns></returns>
+</member>
+<member name="P:Principal.ManifestoRecebimentoJSON.RecebimentoMtrObs">
+ <summary>
+ CAMPO:recebimentoMtrObs, TIPO:String, TAMANHO:255, OBRIGATÓRIO: não
+ </summary>
+ <returns></returns>
+</member>
+<member name="P:Principal.ManifestoRecebimentoJSON.NomeMotorista">
+ <summary>
+  CAMPO:nomeMotorista, TIPO:String, TAMANHO:100, OBRIGATÓRIO: sim
+ </summary>
+ <returns></returns>
+</member>
+<member name="P:Principal.ManifestoRecebimentoJSON.PlacaVeiculo">
+ <summary>
+ CAMPO:placaVeiculo, TIPO:String, TAMANHO:10 ex:ABC-1234 ou ABC1234, OBRIGATÓRIO: sim
+ </summary>
+ <returns></returns>
+</member>
+<member name="P:Principal.ManifestoRecebimentoJSON.TransporteMtrData">
+ <summary>
+ CAMPO:transporteMtrData, TIPO:String (YYYYMMDD), TAMANHO:8, OBRIGATÓRIO: sim
+ </summary>
+ <returns></returns>
+</member>
+<member name="P:Principal.ItemManifestoRecebimentoJSON.CodigoSequencial">
+ <summary>
+ CAMPO:codigoSequencial, TIPO:Integer, TAMANHO:, OBRIGATÓRIO: nao
+ </summary>
+ <returns></returns>
+</member>
+<member name="P:Principal.ItemManifestoRecebimentoJSON.Justificativa">
+ <summary>
+ CAMPO:justificativa, TIPO:string, TAMANHO:300, OBRIGATÓRIO: nao
+ </summary>
+ <returns></returns>
+</member>
+<member name="P:Principal.ItemManifestoRecebimentoJSON.CodigoInterno">
+ <summary>
+ CAMPO:codigoInterno, TIPO:integer, TAMANHO:, OBRIGATÓRIO: nao
+ </summary>
+ <returns></returns>
+</member>
+<member name="P:Principal.ItemManifestoRecebimentoJSON.QtdRecebida">
+ <summary>
+ CAMPO:qtdRecebida, TIPO:Double, TAMANHO:, OBRIGATÓRIO: sim
+ </summary>
+ <returns></returns>
+</member>
+<member name="P:Principal.ItemManifestoRecebimentoJSON.Residuo">
+ <summary>
+ CAMPO:residuo, TIPO:String (Informar o Código do IBAMA), TAMANHO:10, OBRIGATÓRIO: sim
+ </summary>
+ <returns></returns>
+</member>
+<member name="P:Principal.ItemManifestoRecebimentoJSON.CodigoTecnologia">
+ <summary>
+ CAMPO:codigoTecnologia, TIPO:Integer, TAMANHO:, OBRIGATÓRIO: sim
+ </summary>
+ <returns></returns>
+</member>
+<member name="T:Principal.Configuracao">
+ <summary>
+ Classe Container Para pegar toda cconfiguração das subclasses[ Classe-filhos..>PessoaFisica,  PessoaJuridica,  Leitor_Codigo_Barras,  Modalidade]
+ </summary>
+</member>
+<member name="F:Principal.CadMTR.Conexao">
+ <summary>
+Representa uma conexão aberta com o banco de dados
+ </summary>
+</member>
+<member name="F:Principal.CadMTR.Comando">
+ <summary>
+ Representa uma instrução SQL ou  um procedimento armazenado a executar contra um fonte de dados
+ </summary>
+</member>
+<member name="F:Principal.CadMTR.Da">
+ <summary>
+ Conjunto de comando de dados e uma Conexão c o banco dedados q sao usados p preencher o DataSet e atualizar a fonte de dados
+ </summary>
+</member>
+<member name="F:Principal.CadMTR.Dr">
+ <summary>
+ Fornece uma maneira de lerum fluxo somente de encaminhamentos de linha de dados por meio de uma fonte de dados. Esta Classe OledbDataReader n pode ser herdada 
+ </summary>
+</member>
+<member name="F:Principal.CadMTR.Ds">
+ <summary>
+ Representa um dado no cache da memoria, como se fosse uma cópia
+ </summary>
+</member>
+<member name="M:Principal.CadMTR.#ctor(System.String)">
+ <summary>
+ Nome do Banco de dados ex: BDVITAL.accdb
+ Serve para criar uma instancia da minha classe New! alguma coisa e é chamado automaticamente quando ao executar
+ Neste contexto quero iniciar a String de conexão
+ </summary>
+</member>
+<member name="M:Principal.CadMTR.Adicionar">
+ <summary>
+ Adiciona um novo registro no formulário MTR
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:Principal.CadMTR.ContarRegistros">
+ <summary>
+ Função paracontar a qtu de registros
+ </summary>
+ <returns>Retorna a qtu de registros</returns>
+</member>
+<member name="M:Principal.CadMTR.GetDataSet(System.String)">
+ <summary>
+ 
+ </summary>
+ <param name="ConsultaSqlString">É a query a ser usado como parametro de sql. Ex: "select * from CAD_MTR where MTR like"+"'"+TXTmtr.Text+"%"+"'"</param>
+ <returns>Retorna a cópia de um dado, neste caso o dataset q é a memória em cache, cópia de várias várias tabelas pos é isso q o ds trata</returns>
+</member>
+<member name="M:Principal.CadMTR.Excluir(System.String)">
+ <summary>
+ Função booleana para excluir registros
+ </summary>
+ <returns></returns>
+</member>
+<member name="F:Principal.CadResiduo.Conexao">
+ <summary>
+Representa uma conexão aberta com o banco de dados
+ </summary>
+</member>
+<member name="F:Principal.CadResiduo.Comando">
+ <summary>
+ Representa uma instrução SQL ou  um procedimento armazenado a executar contra um fonte de dados
+ </summary>
+</member>
+<member name="F:Principal.CadResiduo.Dr">
+ <summary>
+ Fornece uma maneira de lerum fluxo somente de encaminhamentos de linha de dados por meio de uma fonte de dados. Esta Classe OledbDataReader n pode ser herdada 
+ </summary>
+</member>
+<member name="M:Principal.CadResiduo.Adicionar">
+ <summary>
+ Adiciona um novo registro no formulário MTR
+ </summary>
+ <returns></returns>
+</member>
+<member name="F:Principal.CAD_CONTROLE_DE_PESAGEM_MANUAL.Comando">
+ <summary>
+ Representa uma instrução SQL ou  um procedimento armazenado a executar contra um fonte de dados
+ </summary>
+</member>
+<member name="F:Principal.CAD_CONTROLE_DE_PESAGEM_MANUAL.Dr">
+ <summary>
+ Fornece uma maneira de lerum fluxo somente de encaminhamentos de linha de dados por meio de uma fonte de dados. Esta Classe OledbDataReader n pode ser herdada 
+ </summary>
+</member>
+<member name="F:Principal.CAD_CONTROLE_DE_PESAGEM_MANUAL.Ds">
+ <summary>
+ Representa um dado no cache da memoria, como se fosse uma cópia
+ </summary>
+</member>
+<member name="M:Principal.CAD_CONTROLE_DE_PESAGEM_MANUAL.#ctor(System.String)">
+ <summary>
+ Nome do Banco de dados ex: BDVITAL.accdb
+ Serve para criar uma instancia da minha classe New! alguma coisa e é chamado automaticamente quando ao executar
+ Neste contexto quero iniciar a String de conexão
+ </summary>
+</member>
+<member name="M:Principal.CAD_CONTROLE_DE_PESAGEM_MANUAL.GetString(System.Data.DataTable,System.Int32,System.String,System.String,System.String)">
+ <summary> Função para converter dados de datagrid em string pois na ADO net não existe a função GET STRING!
+ </summary>
+ <param name="dt">um DataTable a ser convertido</param>
+ <param name="numLinhas">o número de linhas a ser convertido na tabela. Se o número for negativo todas as linhas serão convertidas.</param>
+ <param name="delimitadorColunas">o delimitador de colunas. O valor padrão é TAB</param>
+ <param name="delimitadorLinhas">o delimitador de linhas. O valor padrão é o CARRIAGE RETURN</param>
+ <param name="nullExpr">a expressão Null. A string que será substituida por null na tabela. O valor padrão é vazio.</param>
+ <returns></returns>
+</member>
+<member name="M:Principal.CAD_CONTROLE_DE_PESAGEM_MANUAL.Excluir(System.Int32)">
+ <summary>
+ Função booleana para excluir registros
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:Principal.Cad_Controle_de_Pesagem_Manual_Transportador.Carregar(System.String)">
+ <summary>
+ Função para carregar a tabela do banco !
+ </summary>
+ <param name="nome">Nome do banco de dados</param>
+ <returns></returns>
+</member>
+<member name="M:Principal.Checking_da_Instancia_aplicação.AbrirUmaInstanciadaAplicação">
+ <summary>
+ Obtem o nome do processo mediante o retorno da variavel bolean! Se ele for maior que 1 significa que existe mais de uma instancia rodando da aplicação 
+ neste caso ela se chama {System.Diagnostics.Process (Principal)}
+ </summary>
+</member>
+<member name="F:Principal.CadInfrator.Conexao">
+ <summary>
+Representa uma conexão aberta com o banco de dados
+ </summary>
+</member>
+<member name="F:Principal.CadInfrator.Comando">
+ <summary>
+ Representa uma instrução SQL ou  um procedimento armazenado a executar contra um fonte de dados
+ </summary>
+</member>
+<member name="F:Principal.CadInfrator.Da">
+ <summary>
+ Conjunto de comando de dados e uma Conexão c o banco dedados q sao usados p preencher o DataSet e atualizar a fonte de dados
+ </summary>
+</member>
+<member name="F:Principal.CadInfrator.Dr">
+ <summary>
+ Fornece uma maneira de lerum fluxo somente de encaminhamentos de linha de dados por meio de uma fonte de dados. Esta Classe OledbDataReader n pode ser herdada 
+ </summary>
+</member>
+<member name="M:Principal.CadInfrator.#ctor(System.String)">
+ <summary>
+ Serve para criar uma instancia da minha classe New aalguma coisa e é chamado automaticamente quando ao executar
+ Neste contexto quero iniciar a String de conexão
+ </summary>
+</member>
+<member name="P:Principal.CadInfrator.Motorista">
+ <summary>
+ Nome do motorista Infrator
+ </summary>
+ <returns>Nome do motorista</returns>
+</member>
+<member name="P:Principal.CadInfrator.Motivo">
+ <summary>
+ O que ocasionou o motivo do auto da infração
+ </summary>
+ <returns>Retorna o motivo</returns>
+</member>
+<member name="P:Principal.CadInfrator.Id">
+ <summary>
+ Id Cad Infratores para fazer a identificação de cada registro, usado tbm para fazer buscas e pesquisas tanto para excluir como atualizar
+ </summary>
+ <returns>Id da linha afetada</returns>
+</member>
+<member name="P:Principal.CadInfrator.Cliente_x_Transportador">
+ <summary>
+ Informação auxiliar da Empresa do infrator
+ </summary>
+ <returns></returns>s
+</member>
+<member name="P:Principal.CadInfrator.ID_EmpresaxCliente">
+ <summary>
+ ID da Tabela EmpresaxCliente
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:Principal.CadInfrator.NovoCliente_Infrator">
+ <summary>
+ Adiciona um novo cliente
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:Principal.CadInfrator.NovoCliente_EmpresaxCliente">
+ <summary>
+ Método para cadastrar EmpresaxCliente 
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:Principal.CadInfrator.UpdateCliente">
+ <summary>
+ Método para realizar Update nos dados 
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:Principal.CadInfrator.Deletar">
+ <summary>
+ Método para deletar registro
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:Principal.CadInfrator.PesquisarRegistro_porID">
+ <summary>
+ Pesquisa um registro atrvez do ID 
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:Principal.CadInfrator.CarregarInfrator_pelo_Nome(System.String)">
+ <summary>
+ Carrega os registros para o dataGrid
+ </summary>
+ <param name="Nome">Parametro Opticional com valor default= nothoing</param>
+ <returns>Se o parametro for vazio usa o Da para fazer um select *from TAbela
+ Se o parametro nome não for vazio faz um select usando a clasula where p apontar p o campo motorista</returns>
+</member>
+<member name="M:Principal.FORMATO_MOEDA.TextBoxMoeda(System.Windows.Forms.TextBox@)">
+ <summary>
+ Método que formata para moeda o conteúdo de um TextBox 
+ Frequetemente usado no evento TextChanged
+ </summary>
+ <param name="txt">Controle a ser formatado</param>
+ <remarks> Chamar no evento changetext </remarks>
+</member>
+<member name="M:Principal.FrmInfratores.BTBUSCAR_Click(System.Object,System.EventArgs)">
+ <summary>
+ Rotina para pesquisar infrator pelo id
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:Principal.FrmInfratores.BTLISTAR_INFRATORES_Click(System.Object,System.EventArgs)">
+ <summary>
+ Esta rotina lista oq for digitado na caixa de texto Motorista com parâmetro opcional e usando um operador like
+  Comando.CommandText = "SELECT*FROM CAD_INFRATORES WHERE MOTORISTA LIKE'%'+@MOTORISTA+'%'" para pesquisar ou listar
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:Principal.FRMmemorando.BTSALVA_Click(System.Object,System.EventArgs)">
+ <summary>
+ Primeiro salvar as alterações no local e depois sobe p a nuvem
+ </summary>
+ <param name="sender">Objeto usado para Salvar: Neste caso o botão</param>
+ <param name="e">e seria o evento usando:Neste caso o evento Click</param>
+</member>
+<member name="M:Principal.FrmMTR.UsuarioLogado2">
+ <summary>
+ Função para pegar o usuario logado namaquina
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:Principal.FrmMTR.FindFocusedControl(System.Windows.Forms.Control)">
+ <summary>
+ Método que varre os controles para achar qual está em foco (criei como método de extensão já que ele pode ser bastante útil para todos os controles)
+Forma de Usar: formulario.ActiveControl.FindFocusedControl()
+ </summary>
+ <param name="control"></param>
+ <returns></returns>
+</member>
+<member name="M:Principal.ImputBoxPersonalizado.InputBox_Personalizado(System.String,System.String,System.String,System.Boolean,System.Boolean)">
+ <summary>
+ </summary>
+ <param name="descricao">A descrição do objetivo da imputbox, esta mesma é feita em um label no centro do formulário</param>
+ <param name="title">O título ou cabeçario da inputboxPersonalizada</param>
+ <param name="valorPadrao">O valor que a inputboxPersonaliza vai receber ou capturar ao ser acionada</param>
+ <param name="PasswordChar_">Opcional se a caixa de texto vai ter a caixa de texto no formato de senha ou não</param>
+ <returns>A função deve retornar o valor qualquer do tipo string que não seja nulo</returns>
+</member>
+<member name="M:Principal.Internet.FTP_Dowload(System.String,System.String,System.String,System.String)">
+ <summary>
+ usando um servidor FTP
+ </summary>
+ <param name="Caminho"></param>
+ <param name="SiteFTP"></param>
+ <param name="Usuario"></param>
+ <param name="Senha"></param>
+</member>
+<member name="M:Principal.Internet.PCnpj(System.String,System.Windows.Forms.Control)">
+ <summary>
+ Usa uma API para retornar dados de uma CNPJ
+ </summary>
+ <param name="cnpj"></param>
+ <param name="CTLRetorno"></param>
+</member>
+<member name="M:Principal.Reproduzir_Som.Play(System.String)">
+ <summary>
+ AudioPlayMode.Background: Reproduz o som em segundo plano. O código de chamada continua a ser executado.
+ AudioPlayMode.BackgroundLoop: Reproduz o som em segundo plano até que o método Stop seja chamado. O código de chamada continua a ser executado.
+ AudioPlayMode.WaitToComplete: Reproduz o som e aguarda até que seja concluído antes que o código de chamada continue.
+ </summary>
+ <param name="NomedoArquivo_e_Extencão"></param>
+</member>
+<member name="M:Principal.FrmSomarHoras.DateTimePicker1_KeyPress(System.Object,System.Windows.Forms.KeyPressEventArgs)">
+ função Asc() : capturar codigo ascii de um caractere
+ função AscW() : capturara codigo Unicode de um caractere
+ função Chr() : descobrir caractere apartir de seu codigo
+</member>
+</members>
+</doc>

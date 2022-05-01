@@ -1,0 +1,578 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{343923A2-A307-48D8-AC70-523468D46BED}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Principal.My.MyApplication</StartupObject>
+    <RootNamespace>Principal</RootNamespace>
+    <AssemblyName>Principal</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\M.MTR\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Principal.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Principal.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <RunCodeAnalysis>true</RunCodeAnalysis>
+    <CodeAnalysisIgnoreGeneratedCode>true</CodeAnalysisIgnoreGeneratedCode>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>DFDE22BA9B31E37CFDB1061D26CE0A602C576A14</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Principal_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>false</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>Internet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>false</SignAssembly>
+  </PropertyGroup>
+  <PropertyGroup>
+    <AssemblyOriginatorKeyFile>MF.snk</AssemblyOriginatorKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <DelaySign>false</DelaySign>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.52">
+      <HintPath>Dlls\Bunifu_UI_v1.52.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI2">
+      <HintPath>Dlls\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>packages\Newtonsoft.Json.13.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="Tulpep.NotificationWindow">
+      <HintPath>Dlls\Tulpep.NotificationWindow.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CNPJ\Configuracao.vb" />
+    <Compile Include="FEAM\ConfiguracaoFeam.vb" />
+    <Compile Include="FEAM\RetornaManifesto.vb" />
+    <Compile Include="FrmPrincipal.vb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPrincipal.Designer.vb">
+      <DependentUpon>FrmPrincipal.vb</DependentUpon>
+      <SubType>Form</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="FRM\AbrirUmaInstancia.vb" />
+    <Compile Include="FRM\AjudaTooltip.vb" />
+    <Compile Include="FRM\Banco de dados Confirmação.Designer.vb">
+      <DependentUpon>Banco de dados Confirmação.vb</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="FRM\Banco de dados Confirmação.vb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM\CadMTR.vb" />
+    <Compile Include="FRM\CadResiduo.vb" />
+    <Compile Include="FRM\CAD_CONTROLE_DE_PESAGEM_MANUAL.vb" />
+    <Compile Include="FRM\Cad_Controle_de_Pesagem_Manual_Cliente.vb" />
+    <Compile Include="FRM\Cad_Controle_de_Pesagem_Manual_Transportador.vb" />
+    <Compile Include="FRM\CarregarDadosLocalmente.vb" />
+    <Compile Include="FRM\Checking da Instancia aplicação.vb" />
+    <Compile Include="FRM\CadInfrator.vb" />
+    <Compile Include="FRM\ClasseCnpj.vb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="FRM\ColocarFormularionoTopoChamarformulario.vb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="FRM\Component1.Designer.vb" />
+    <Compile Include="FRM\Configurar banco de Dados.Designer.vb">
+      <DependentUpon>Configurar banco de Dados.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM\Configurar banco de Dados.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM\Excluir item selecionado com delete.vb" />
+    <Compile Include="FRM\Filtro de datas.vb" />
+    <Compile Include="FRM\FORMATO_MOEDA.vb" />
+    <Compile Include="FRM\FRMConfiguracaoFeam.Designer.vb">
+      <DependentUpon>FRMConfiguracaoFeam.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM\FRMConfiguracaoFeam.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM\FRMControle de Pesagem Manual.Designer.vb">
+      <DependentUpon>FRMControle de Pesagem Manual.vb</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="FRM\FRMControle de Pesagem Manual.vb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM\EstimativaManual.Designer.vb">
+      <DependentUpon>EstimativaManual.vb</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="FRM\EstimativaManual.vb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM\FrmAlterardataehora.Designer.vb">
+      <DependentUpon>FrmAlterardataehora.vb</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="FRM\FrmAlterardataehora.vb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM\FrmInfratores.Designer.vb">
+      <DependentUpon>FrmInfratores.vb</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="FRM\FrmInfratores.vb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM\FRMmemorando.Designer.vb">
+      <DependentUpon>FRMmemorando.vb</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="FRM\FRMmemorando.vb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM\FrmMTR.Designer.vb">
+      <DependentUpon>FrmMTR.vb</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="FRM\FrmMTR.vb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM\FrmOpcoes.Designer.vb">
+      <DependentUpon>FrmOpcoes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM\FrmOpcoes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM\frmpesoliquido.Designer.vb">
+      <DependentUpon>frmpesoliquido.vb</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="FRM\frmpesoliquido.vb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM\FrmVolumeWindows.Designer.vb">
+      <DependentUpon>FrmVolumeWindows.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM\FrmVolumeWindows.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM\FTP_Upload.vb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="FRM\Impressão.vb" />
+    <Compile Include="FRM\ImputBoxPersonalizado.vb" />
+    <Compile Include="FRM\InputBox_Personalizado.vb" />
+    <Compile Include="FRM\Internet.vb" />
+    <Compile Include="FRM\LIMPARTODASTEXTBOX.vb" />
+    <Compile Include="FRM\Feam.vb" />
+    <Compile Include="FRM\Notifyicone.vb" />
+    <Compile Include="FRM\ObjManager.vb" />
+    <Compile Include="FRM\Opacity.Designer.vb">
+      <DependentUpon>Opacity.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM\Opacity.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM\Pesquisar em Listview o Item.vb" />
+    <Compile Include="FRM\Reproduzir_Som.vb" />
+    <Compile Include="FRM\SalvarOnlineContPesagemManual.vb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="FRM\SOLETRAS.vb" />
+    <Compile Include="FRM\Somar.Designer.vb">
+      <DependentUpon>Somar.vb</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="FRM\Somar.vb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM\SONUMEROS.vb" />
+    <Compile Include="FRM\TextboxMonetário.vb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="FRM\TopMost_.vb" />
+    <Compile Include="FRM\UsuarioLogado.vb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="FRM\VALIDARENTRADA.vb" />
+    <Compile Include="FRM\Volume do Windows.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="FrmPrincipal.resx">
+      <DependentUpon>FrmPrincipal.vb</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM\Banco de dados Confirmação.resx">
+      <DependentUpon>Banco de dados Confirmação.vb</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM\Configurar banco de Dados.resx">
+      <DependentUpon>Configurar banco de Dados.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM\FRMConfiguracaoFeam.resx">
+      <DependentUpon>FRMConfiguracaoFeam.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM\FRMControle de Pesagem Manual.resx">
+      <DependentUpon>FRMControle de Pesagem Manual.vb</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM\EstimativaManual.resx">
+      <DependentUpon>EstimativaManual.vb</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM\FrmAlterardataehora.pt-BR.resx">
+      <DependentUpon>FrmAlterardataehora.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM\FrmAlterardataehora.resx">
+      <DependentUpon>FrmAlterardataehora.vb</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM\FrmInfratores.resx">
+      <DependentUpon>FrmInfratores.vb</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM\FRMmemorando.resx">
+      <DependentUpon>FRMmemorando.vb</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM\FrmMTR.resx">
+      <DependentUpon>FrmMTR.vb</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM\FrmOpcoes.resx">
+      <DependentUpon>FrmOpcoes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM\frmpesoliquido.resx">
+      <DependentUpon>frmpesoliquido.vb</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM\FrmVolumeWindows.resx">
+      <DependentUpon>FrmVolumeWindows.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM\InputBox_Personalizado.resx">
+      <DependentUpon>InputBox_Personalizado.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM\Opacity.resx">
+      <DependentUpon>Opacity.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM\Somar.pt-BR.resx">
+      <DependentUpon>Somar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM\Somar.resx">
+      <DependentUpon>Somar.vb</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM\TextboxMonetário.resx">
+      <DependentUpon>TextboxMonetário.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>PublicVbMyResourcesResXFileCodeGenerator</Generator>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include=".editorconfig" />
+    <None Include="bin\Debug\retorno.Json" />
+    <None Include="MF.snk" />
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>PublicSettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 e x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="FRM\Resources\top2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="FRM\Resources\bullet_red.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="FRM\Resources\bullet_purple.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="FRM\Resources\bullet_pink.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="FRM\Resources\bullet_green.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="FRM\Resources\bullet_blue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="FRM\Resources\bullet_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="FRM\Resources\bullet_disk.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="FRM\Resources\add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="FRM\Resources\Balanca.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="FRM\Resources\clock_.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="FRM\Resources\CQG.ICO" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="FRM\Resources\cross.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="FRM\Resources\database.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="FRM\Resources\date.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="FRM\Resources\folder_database.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="FRM\Resources\monitor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="FRM\Resources\page_white_gear.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="FRM\Resources\page_white_magnify.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="FRM\Resources\printer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="FRM\Resources\report_edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="FRM\Resources\status_offline.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="FRM\Resources\status_online.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="FRM\Resources\table_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="FRM\Resources\vhewfhf.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>8</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="stdole">
+      <Guid>{00020430-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="DLL\Bunifu_UI_v1.52.dll" />
+    <Content Include="DLL\CPU.dll" />
+    <Content Include="DLL\Guna.UI.dll" />
+    <Content Include="DLL\Guna.UI2.dll" />
+    <Content Include="DLL\MetroFramework.Design.dll" />
+    <Content Include="DLL\MetroFramework.dll" />
+    <Content Include="DLL\MetroFramework.Fonts.dll" />
+    <Content Include="DLL\Tulpep.NotificationWindow.dll" />
+    <Content Include="Resources\add.png" />
+    <None Include="packages.config" />
+    <None Include="Principal_TemporaryKey.pfx" />
+    <None Include="Resources\bullet_blue.png" />
+    <Content Include="Resources\bullet_delete.png" />
+    <Content Include="Resources\bullet_disk.png" />
+    <None Include="Resources\bullet_disk1.png" />
+    <None Include="Resources\bullet_go.png" />
+    <None Include="Resources\bullet_green.png" />
+    <None Include="Resources\bullet_key.png" />
+    <None Include="Resources\bullet_orange.png" />
+    <None Include="Resources\bullet_pink.png" />
+    <None Include="Resources\bullet_purple.png" />
+    <None Include="Resources\bullet_red.png" />
+    <Content Include="Resources\clock_.png" />
+    <None Include="Resources\configuration_config_system_1540.ico" />
+    <Content Include="Resources\cross.png" />
+    <Content Include="Resources\database.png" />
+    <Content Include="Resources\date.png" />
+    <None Include="Resources\fbvasfhjvas.jpg" />
+    <None Include="Resources\find.png" />
+    <Content Include="Resources\folder_database.png" />
+    <Content Include="Resources\images.jfif" />
+    <Content Include="Resources\page_white_magnify.png" />
+    <Content Include="Resources\printer.png" />
+    <Content Include="Resources\report_edit.png" />
+    <None Include="Resources\sound_mute.png" />
+    <None Include="Resources\sound.png" />
+    <None Include="Resources\sound_add.png" />
+    <None Include="Resources\sound_delete.png" />
+    <None Include="Resources\sound_none.png" />
+    <Content Include="Resources\status_offline.png" />
+    <Content Include="Resources\status_online.png" />
+    <Content Include="Resources\table_delete.png" />
+    <Content Include="Resources\top2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>

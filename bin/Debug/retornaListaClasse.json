@@ -1,0 +1,128 @@
+[
+    {
+        "tpclaCodigo": 1,
+        "tpclaDescricao": "Classe I",
+        "tpclaSigla": "I",
+        "retornoCodigo": null,
+        "retorno": null
+    },
+    {
+        "tpclaCodigo": 2,
+        "tpclaDescricao": "Classe II A",
+        "tpclaSigla": "IIA",
+        "retornoCodigo": null,
+        "retorno": null
+    },
+    {
+        "tpclaCodigo": 3,
+        "tpclaDescricao": "Classe II B",
+        "tpclaSigla": "IIB",
+        "retornoCodigo": null,
+        "retorno": null
+    },
+    {
+        "tpclaCodigo": 4,
+        "tpclaDescricao": "RSS Grupo A1",
+        "tpclaSigla": "RSS Grupo A1",
+        "retornoCodigo": null,
+        "retorno": null
+    },
+    {
+        "tpclaCodigo": 5,
+        "tpclaDescricao": "RSS Grupo A2",
+        "tpclaSigla": "RSS Grupo A2",
+        "retornoCodigo": null,
+        "retorno": null
+    },
+    {
+        "tpclaCodigo": 6,
+        "tpclaDescricao": "RSS Grupo A3",
+        "tpclaSigla": "RSS Grupo A3",
+        "retornoCodigo": null,
+        "retorno": null
+    },
+    {
+        "tpclaCodigo": 7,
+        "tpclaDescricao": "RSS Grupo A4",
+        "tpclaSigla": "RSS Grupo A4",
+        "retornoCodigo": null,
+        "retorno": null
+    },
+    {
+        "tpclaCodigo": 8,
+        "tpclaDescricao": "RSS Grupo A5",
+        "tpclaSigla": "RSS Grupo A5",
+        "retornoCodigo": null,
+        "retorno": null
+    },
+    {
+        "tpclaCodigo": 9,
+        "tpclaDescricao": "RSS Grupo B",
+        "tpclaSigla": "RSS Grupo B",
+        "retornoCodigo": null,
+        "retorno": null
+    },
+    {
+        "tpclaCodigo": 10,
+        "tpclaDescricao": "RSS Grupo C",
+        "tpclaSigla": "RSS Grupo C",
+        "retornoCodigo": null,
+        "retorno": null
+    },
+    {
+        "tpclaCodigo": 11,
+        "tpclaDescricao": "RSS Grupo E",
+        "tpclaSigla": "RSS Grupo E",
+        "retornoCodigo": null,
+        "retorno": null
+    },
+    {
+        "tpclaCodigo": 12,
+        "tpclaDescricao": "RSS Grupo A",
+        "tpclaSigla": "RSS Grupo A",
+        "retornoCodigo": null,
+        "retorno": null
+    },
+    {
+        "tpclaCodigo": 13,
+        "tpclaDescricao": "ResÃ­duos Oriundos de Esgotamento SanitÃ¡rio (Limpa Fossa)",
+        "tpclaSigla": "ROESLF",
+        "retornoCodigo": null,
+        "retorno": null
+    },
+    {
+        "tpclaCodigo": 15,
+        "tpclaDescricao": "RCC Classe A",
+        "tpclaSigla": "RCC Classe A",
+        "retornoCodigo": null,
+        "retorno": null
+    },
+    {
+        "tpclaCodigo": 16,
+        "tpclaDescricao": "RCC Classe B",
+        "tpclaSigla": "RCC Classe B",
+        "retornoCodigo": null,
+        "retorno": null
+    },
+    {
+        "tpclaCodigo": 17,
+        "tpclaDescricao": "RCC Classe C",
+        "tpclaSigla": "RCC Classe C",
+        "retornoCodigo": null,
+        "retorno": null
+    },
+    {
+        "tpclaCodigo": 18,
+        "tpclaDescricao": "RCC Classe D",
+        "tpclaSigla": "RCC Classe D",
+        "retornoCodigo": null,
+        "retorno": null
+    },
+    {
+        "tpclaCodigo": 19,
+        "tpclaDescricao": "RSS Grupo D",
+        "tpclaSigla": "RSS Grupo D",
+        "retornoCodigo": null,
+        "retorno": null
+    }
+]

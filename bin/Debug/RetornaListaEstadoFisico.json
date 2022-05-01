@@ -1,0 +1,30 @@
+[
+    {
+        "tpestCodigo": 1,
+        "tpestDescricao": "Sólido",
+        "tpestSigla": "SÓL",
+        "retornoCodigo": null,
+        "retorno": null
+    },
+    {
+        "tpestCodigo": 2,
+        "tpestDescricao": "Líquido",
+        "tpestSigla": "LÍQ",
+        "retornoCodigo": null,
+        "retorno": null
+    },
+    {
+        "tpestCodigo": 3,
+        "tpestDescricao": "Semi-sólido",
+        "tpestSigla": "SEM.SÓL",
+        "retornoCodigo": null,
+        "retorno": null
+    },
+    {
+        "tpestCodigo": 4,
+        "tpestDescricao": "Gasoso",
+        "tpestSigla": "GAS",
+        "retornoCodigo": null,
+        "retorno": null
+    }
+]
